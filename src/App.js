@@ -116,7 +116,7 @@ export default function App() {
       {/* Footer */}
       <footer className="footer">
         <p>
-          Designed & Implemented by <strong>Swati Mishra</strong> | Credit: <em>~gsg_mks</em>
+          Designed & Implemented by <strong>Swati Mishra</strong> | Credit: <em>~gsg__mks</em>
         </p>
       </footer>
     </div>
