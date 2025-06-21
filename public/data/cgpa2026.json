@@ -1,0 +1,12490 @@
+{
+  "00101042022": {
+    "name": "AARUSHI JAIN",
+    "semGPA": [
+      8.09,
+      null,
+      7.91,
+      null,
+      7.5,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 7.99
+  },
+  "00201042022": {
+    "name": "AARUSHI JOHRI",
+    "semGPA": [
+      7.64,
+      null,
+      8.35,
+      null,
+      9.55,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.75
+  },
+  "00301042022": {
+    "name": "AASHI GUPTA",
+    "semGPA": [
+      6.82,
+      null,
+      7.87,
+      null,
+      8.82,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 8.02
+  },
+  "00401042022": {
+    "name": "ADITI MISHRA",
+    "semGPA": [
+      6.91,
+      null,
+      7.39,
+      null,
+      7.77,
+      7.27,
+      null,
+      null
+    ],
+    "cgpa": 7.33
+  },
+  "00501042022": {
+    "name": "AIMAN ZAKIR",
+    "semGPA": [
+      6.91,
+      null,
+      8.04,
+      null,
+      8.09,
+      8.09,
+      null,
+      null
+    ],
+    "cgpa": 7.78
+  },
+  "00601042022": {
+    "name": "AKANKSHA JHA",
+    "semGPA": [
+      4.64,
+      null,
+      5.61,
+      null,
+      8.36,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 6.79
+  },
+  "00701042022": {
+    "name": "ALISHA DHINGIA",
+    "semGPA": [
+      8.64,
+      null,
+      9.0,
+      null,
+      8.82,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.98
+  },
+  "00801042022": {
+    "name": "ALKA",
+    "semGPA": [
+      4.0,
+      null,
+      3.48,
+      null,
+      5.73,
+      5.23,
+      null,
+      null
+    ],
+    "cgpa": 4.61
+  },
+  "00901042022": {
+    "name": "ANANYA GOEL",
+    "semGPA": [
+      6.55,
+      null,
+      8.17,
+      null,
+      8.59,
+      9.41,
+      null,
+      null
+    ],
+    "cgpa": 8.18
+  },
+  "01001042022": {
+    "name": "ANISHKA GUPTA",
+    "semGPA": [
+      8.45,
+      null,
+      8.78,
+      null,
+      9.09,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.99
+  },
+  "01101042022": {
+    "name": "ANJALI SAXENA",
+    "semGPA": [
+      6.82,
+      null,
+      7.09,
+      null,
+      7.68,
+      8.59,
+      null,
+      null
+    ],
+    "cgpa": 7.54
+  },
+  "01201042022": {
+    "name": "ANKITA SAJWAN",
+    "semGPA": [
+      7.91,
+      null,
+      8.39,
+      null,
+      8.27,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.46
+  },
+  "01301042022": {
+    "name": "ANKITA YADAV",
+    "semGPA": [
+      4.91,
+      null,
+      6.57,
+      null,
+      8.5,
+      8.5,
+      null,
+      null
+    ],
+    "cgpa": 7.12
+  },
+  "01401042022": {
+    "name": "ANSHIKA DURGAPAL",
+    "semGPA": [
+      6.73,
+      null,
+      5.91,
+      null,
+      5.32,
+      4.55,
+      null,
+      null
+    ],
+    "cgpa": 5.63
+  },
+  "01501042022": {
+    "name": "ANUSHA MAHAJAN",
+    "semGPA": [
+      7.45,
+      null,
+      6.7,
+      null,
+      8.5,
+      9.41,
+      null,
+      null
+    ],
+    "cgpa": 8.02
+  },
+  "01601042022": {
+    "name": "ARIN KHAN",
+    "semGPA": [
+      7.55,
+      null,
+      7.65,
+      null,
+      8.55,
+      8.23,
+      null,
+      null
+    ],
+    "cgpa": 8.0
+  },
+  "01701042022": {
+    "name": "ARSHEYA JUNAID",
+    "semGPA": [
+      5.73,
+      null,
+      7.13,
+      null,
+      7.86,
+      7.91,
+      null,
+      null
+    ],
+    "cgpa": 7.16
+  },
+  "01801042022": {
+    "name": "ARSHI GUPTA",
+    "semGPA": [
+      6.73,
+      null,
+      8.74,
+      null,
+      8.5,
+      9.55,
+      null,
+      null
+    ],
+    "cgpa": 8.38
+  },
+  "01901042022": {
+    "name": "ARUSHI SHARMA",
+    "semGPA": [
+      7.91,
+      null,
+      8.74,
+      null,
+      8.68,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.7
+  },
+  "02001042022": {
+    "name": "AYUSHI KUKREJA",
+    "semGPA": [
+      8.09,
+      null,
+      8.39,
+      null,
+      8.55,
+      8.95,
+      null,
+      null
+    ],
+    "cgpa": 8.5
+  },
+  "02101042022": {
+    "name": "BANI AGGARWAL",
+    "semGPA": [
+      4.64,
+      null,
+      5.91,
+      null,
+      7.86,
+      7.45,
+      null,
+      null
+    ],
+    "cgpa": 6.46
+  },
+  "02201042022": {
+    "name": "BUSI KEERTHI",
+    "semGPA": [
+      7.18,
+      null,
+      5.87,
+      null,
+      6.73,
+      7.09,
+      null,
+      null
+    ],
+    "cgpa": 6.72
+  },
+  "02301042022": {
+    "name": "CHARU NIGAM",
+    "semGPA": [
+      3.55,
+      null,
+      6.13,
+      null,
+      6.91,
+      8.27,
+      null,
+      null
+    ],
+    "cgpa": 6.21
+  },
+  "02401042022": {
+    "name": "CHETNA PAWAR",
+    "semGPA": [
+      3.45,
+      null,
+      3.35,
+      null,
+      5.64,
+      5.91,
+      null,
+      null
+    ],
+    "cgpa": 4.59
+  },
+  "02501042022": {
+    "name": "DRISHTI KIRAR",
+    "semGPA": [
+      4.0,
+      null,
+      4.39,
+      null,
+      7.32,
+      5.77,
+      null,
+      null
+    ],
+    "cgpa": 5.37
+  },
+  "02601042022": {
+    "name": "GAURI AGRAWAL",
+    "semGPA": [
+      7.91,
+      null,
+      7.78,
+      null,
+      9.09,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.56
+  },
+  "02701042022": {
+    "name": "HAFSA MASOOD",
+    "semGPA": [
+      7.09,
+      null,
+      7.48,
+      null,
+      7.91,
+      8.05,
+      null,
+      null
+    ],
+    "cgpa": 7.63
+  },
+  "02801042022": {
+    "name": "HEMLATA SHARMA",
+    "semGPA": [
+      7.55,
+      null,
+      6.91,
+      null,
+      7.86,
+      8.0,
+      null,
+      null
+    ],
+    "cgpa": 7.58
+  },
+  "02901042022": {
+    "name": "ISHITA GUPTA",
+    "semGPA": [
+      8.55,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 8.55
+  },
+  "03001042022": {
+    "name": "JEEVISHA SHUKLA",
+    "semGPA": [
+      8.55,
+      null,
+      9.13,
+      null,
+      8.59,
+      9.32,
+      null,
+      null
+    ],
+    "cgpa": 8.9
+  },
+  "03101042022": {
+    "name": "JIYA SHARMA",
+    "semGPA": [
+      6.82,
+      null,
+      6.43,
+      null,
+      7.91,
+      8.77,
+      null,
+      null
+    ],
+    "cgpa": 7.48
+  },
+  "03201042022": {
+    "name": "JYOTI",
+    "semGPA": [
+      4.73,
+      null,
+      6.04,
+      null,
+      8.64,
+      9.14,
+      null,
+      null
+    ],
+    "cgpa": 7.14
+  },
+  "03301042022": {
+    "name": "KAASHVI GUPTA",
+    "semGPA": [
+      8.18,
+      null,
+      8.26,
+      null,
+      8.82,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.72
+  },
+  "03401042022": {
+    "name": "KANIKA JAIN",
+    "semGPA": [
+      7.64,
+      null,
+      7.74,
+      null,
+      7.77,
+      8.77,
+      null,
+      null
+    ],
+    "cgpa": 7.98
+  },
+  "03501042022": {
+    "name": "KANIKA SAINI",
+    "semGPA": [
+      7.82,
+      null,
+      7.61,
+      null,
+      8.77,
+      9.05,
+      null,
+      null
+    ],
+    "cgpa": 8.31
+  },
+  "03601042022": {
+    "name": "KANISHKA",
+    "semGPA": [
+      8.09,
+      null,
+      8.61,
+      null,
+      8.82,
+      9.55,
+      null,
+      null
+    ],
+    "cgpa": 8.77
+  },
+  "03701042022": {
+    "name": "KANISHKA KAINTURA",
+    "semGPA": [
+      6.91,
+      null,
+      8.22,
+      null,
+      8.45,
+      8.86,
+      null,
+      null
+    ],
+    "cgpa": 8.11
+  },
+  "03801042022": {
+    "name": "KASHISH JAIN",
+    "semGPA": [
+      6.36,
+      null,
+      7.04,
+      null,
+      8.45,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 7.74
+  },
+  "03901042022": {
+    "name": "KRISTY DHOUNDIYAL",
+    "semGPA": [
+      6.09,
+      null,
+      6.87,
+      null,
+      8.55,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 7.61
+  },
+  "04001042022": {
+    "name": "KRITI PAL",
+    "semGPA": [
+      6.45,
+      null,
+      6.83,
+      null,
+      8.09,
+      7.5,
+      null,
+      null
+    ],
+    "cgpa": 7.22
+  },
+  "04101042022": {
+    "name": "LAIBA ANSARI",
+    "semGPA": [
+      5.0,
+      null,
+      3.3,
+      null,
+      8.09,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 6.28
+  },
+  "04201042022": {
+    "name": "MANJUSHA IYER",
+    "semGPA": [
+      8.36,
+      null,
+      8.26,
+      null,
+      9.05,
+      9.41,
+      null,
+      null
+    ],
+    "cgpa": 8.77
+  },
+  "04301042022": {
+    "name": "MUSKAN",
+    "semGPA": [
+      7.27,
+      null,
+      9.09,
+      null,
+      8.27,
+      9.23,
+      null,
+      null
+    ],
+    "cgpa": 8.46
+  },
+  "04401042022": {
+    "name": "NANDINI CHATURVEDI",
+    "semGPA": [
+      8.82,
+      null,
+      9.04,
+      null,
+      9.27,
+      9.95,
+      null,
+      null
+    ],
+    "cgpa": 9.27
+  },
+  "04501042022": {
+    "name": "NANDINI KUMARI",
+    "semGPA": [
+      5.09,
+      null,
+      5.74,
+      null,
+      7.05,
+      6.91,
+      null,
+      null
+    ],
+    "cgpa": 6.2
+  },
+  "04601042022": {
+    "name": "NEHA BIHARI",
+    "semGPA": [
+      4.36,
+      null,
+      6.13,
+      null,
+      7.64,
+      8.0,
+      null,
+      null
+    ],
+    "cgpa": 6.53
+  },
+  "04701042022": {
+    "name": "NEHA KUMARI",
+    "semGPA": [
+      5.18,
+      null,
+      5.83,
+      null,
+      8.41,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 7.02
+  },
+  "04801042022": {
+    "name": "NIHARIKA JAIN",
+    "semGPA": [
+      8.45,
+      null,
+      8.83,
+      null,
+      9.0,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.07
+  },
+  "04901042022": {
+    "name": "PARI CHAURASIA",
+    "semGPA": [
+      7.09,
+      null,
+      7.22,
+      null,
+      8.41,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 7.84
+  },
+  "05001042022": {
+    "name": "POOJA",
+    "semGPA": [
+      4.64,
+      null,
+      6.26,
+      null,
+      6.64,
+      7.27,
+      null,
+      null
+    ],
+    "cgpa": 6.2
+  },
+  "05101042022": {
+    "name": "PRAGYA SINGH",
+    "semGPA": [
+      5.64,
+      null,
+      7.04,
+      null,
+      8.64,
+      8.68,
+      null,
+      null
+    ],
+    "cgpa": 7.5
+  },
+  "05201042022": {
+    "name": "PRASHANSA JAISWAL",
+    "semGPA": [
+      3.73,
+      null,
+      4.57,
+      null,
+      7.0,
+      7.18,
+      null,
+      null
+    ],
+    "cgpa": 5.62
+  },
+  "05301042022": {
+    "name": "PRIYA GUPTA",
+    "semGPA": [
+      7.91,
+      null,
+      8.65,
+      null,
+      8.82,
+      9.68,
+      null,
+      null
+    ],
+    "cgpa": 8.77
+  },
+  "05401042022": {
+    "name": "PRIYANI SRIVASTAVA",
+    "semGPA": [
+      7.64,
+      null,
+      6.57,
+      null,
+      8.45,
+      9.14,
+      null,
+      null
+    ],
+    "cgpa": 7.95
+  },
+  "05501042022": {
+    "name": "PRIYASHA VERMA",
+    "semGPA": [
+      4.91,
+      null,
+      5.22,
+      null,
+      6.95,
+      7.86,
+      null,
+      null
+    ],
+    "cgpa": 6.23
+  },
+  "05601042022": {
+    "name": "SAMIYA MALHOTRA",
+    "semGPA": [
+      8.09,
+      null,
+      8.04,
+      null,
+      9.0,
+      9.59,
+      null,
+      null
+    ],
+    "cgpa": 8.68
+  },
+  "05701042022": {
+    "name": "SAMRADDHI GUPTA",
+    "semGPA": [
+      7.45,
+      null,
+      7.65,
+      null,
+      8.77,
+      8.95,
+      null,
+      null
+    ],
+    "cgpa": 8.21
+  },
+  "05801042022": {
+    "name": "SAMRIDHI SINGH",
+    "semGPA": [
+      8.0,
+      null,
+      8.39,
+      null,
+      8.86,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 8.77
+  },
+  "05901042022": {
+    "name": "SAMRIDHI TRIPATHI",
+    "semGPA": [
+      8.55,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 8.55
+  },
+  "06001042022": {
+    "name": "SANYA KAPOOR",
+    "semGPA": [
+      5.45,
+      null,
+      7.65,
+      null,
+      8.55,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 7.78
+  },
+  "06101042022": {
+    "name": "SARA",
+    "semGPA": [
+      4.82,
+      null,
+      6.39,
+      null,
+      8.82,
+      8.68,
+      null,
+      null
+    ],
+    "cgpa": 7.18
+  },
+  "06201042022": {
+    "name": "SAUMYA",
+    "semGPA": [
+      8.55,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 8.55
+  },
+  "06301042022": {
+    "name": "SHAGATA CHANDA",
+    "semGPA": [
+      8.0,
+      null,
+      9.26,
+      null,
+      9.14,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.92
+  },
+  "06401042022": {
+    "name": "SHEETAL",
+    "semGPA": [
+      6.0,
+      null,
+      7.04,
+      null,
+      7.73,
+      8.95,
+      null,
+      null
+    ],
+    "cgpa": 7.43
+  },
+  "06501042022": {
+    "name": "SHIKHA PARBAT",
+    "semGPA": [
+      6.64,
+      null,
+      7.96,
+      null,
+      8.36,
+      9.23,
+      null,
+      null
+    ],
+    "cgpa": 8.05
+  },
+  "06601042022": {
+    "name": "SHIVANGI TANWAR",
+    "semGPA": [
+      2.36,
+      null,
+      1.13,
+      null,
+      4.82,
+      4.18,
+      null,
+      null
+    ],
+    "cgpa": 3.12
+  },
+  "06701042022": {
+    "name": "SHRADDHA SHARMA",
+    "semGPA": [
+      6.45,
+      null,
+      7.22,
+      null,
+      8.68,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 7.77
+  },
+  "06801042022": {
+    "name": "SHUHANI",
+    "semGPA": [
+      5.18,
+      null,
+      6.91,
+      null,
+      8.36,
+      7.23,
+      null,
+      null
+    ],
+    "cgpa": 6.92
+  },
+  "06901042022": {
+    "name": "SHURUTI SINGH",
+    "semGPA": [
+      3.82,
+      null,
+      5.43,
+      null,
+      7.18,
+      7.0,
+      null,
+      null
+    ],
+    "cgpa": 5.86
+  },
+  "07001042022": {
+    "name": "SIMMI AGGARWAL",
+    "semGPA": [
+      7.27,
+      null,
+      8.52,
+      null,
+      9.55,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 8.79
+  },
+  "07101042022": {
+    "name": "SNEHA GOSWAMI",
+    "semGPA": [
+      1.73,
+      null,
+      5.13,
+      null,
+      7.73,
+      7.55,
+      null,
+      null
+    ],
+    "cgpa": 5.54
+  },
+  "07201042022": {
+    "name": "SONVI JAIN",
+    "semGPA": [
+      7.91,
+      null,
+      8.65,
+      null,
+      9.82,
+      9.77,
+      null,
+      null
+    ],
+    "cgpa": 9.04
+  },
+  "07301042022": {
+    "name": "SOUMYA GUPTA",
+    "semGPA": [
+      8.27,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 8.27
+  },
+  "07401042022": {
+    "name": "SOUMYA MATHUR",
+    "semGPA": [
+      7.82,
+      null,
+      8.52,
+      null,
+      8.95,
+      9.59,
+      null,
+      null
+    ],
+    "cgpa": 8.72
+  },
+  "07501042022": {
+    "name": "SOUMYA SHARMA",
+    "semGPA": [
+      4.64,
+      null,
+      6.04,
+      null,
+      7.95,
+      8.5,
+      null,
+      null
+    ],
+    "cgpa": 6.78
+  },
+  "07601042022": {
+    "name": "SRISHTI GUPTA",
+    "semGPA": [
+      5.36,
+      null,
+      7.61,
+      null,
+      8.59,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 7.64
+  },
+  "07701042022": {
+    "name": "SRISHTI SINGHLA",
+    "semGPA": [
+      6.82,
+      null,
+      7.52,
+      null,
+      8.86,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.21
+  },
+  "07801042022": {
+    "name": "STUTI NARAIN",
+    "semGPA": [
+      8.36,
+      null,
+      9.52,
+      null,
+      9.73,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.4
+  },
+  "07901042022": {
+    "name": "SUPRIYA KUMARI",
+    "semGPA": [
+      6.27,
+      null,
+      6.61,
+      null,
+      7.95,
+      8.23,
+      null,
+      null
+    ],
+    "cgpa": 7.26
+  },
+  "08001042022": {
+    "name": "SURBHI",
+    "semGPA": [
+      6.0,
+      null,
+      8.04,
+      null,
+      8.68,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 7.86
+  },
+  "08101042022": {
+    "name": "SUSHREE SUSMITA",
+    "semGPA": [
+      5.64,
+      null,
+      7.39,
+      null,
+      8.73,
+      9.05,
+      null,
+      null
+    ],
+    "cgpa": 7.7
+  },
+  "08201042022": {
+    "name": "SVETLANA NEGI",
+    "semGPA": [
+      6.64,
+      null,
+      7.96,
+      null,
+      9.0,
+      9.59,
+      null,
+      null
+    ],
+    "cgpa": 8.3
+  },
+  "08301042022": {
+    "name": "SWATI NAGPAL",
+    "semGPA": [
+      5.73,
+      null,
+      6.17,
+      null,
+      8.05,
+      7.59,
+      null,
+      null
+    ],
+    "cgpa": 6.89
+  },
+  "08401042022": {
+    "name": "SWATI SINGH",
+    "semGPA": [
+      6.82,
+      null,
+      7.09,
+      null,
+      8.27,
+      8.86,
+      null,
+      null
+    ],
+    "cgpa": 7.76
+  },
+  "08501042022": {
+    "name": "TANYA NAGAR",
+    "semGPA": [
+      8.82,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 8.82
+  },
+  "08601042022": {
+    "name": "TOSMI GOEL",
+    "semGPA": [
+      8.45,
+      null,
+      8.39,
+      null,
+      9.23,
+      9.77,
+      null,
+      null
+    ],
+    "cgpa": 8.96
+  },
+  "08701042022": {
+    "name": "TRIPTI SINGH",
+    "semGPA": [
+      5.55,
+      null,
+      6.17,
+      null,
+      8.41,
+      8.86,
+      null,
+      null
+    ],
+    "cgpa": 7.25
+  },
+  "08801042022": {
+    "name": "TUBA ANSARI",
+    "semGPA": [
+      6.91,
+      null,
+      8.7,
+      null,
+      8.82,
+      8.32,
+      null,
+      null
+    ],
+    "cgpa": 8.19
+  },
+  "08901042022": {
+    "name": "TVISHA CHAWLA",
+    "semGPA": [
+      8.27,
+      null,
+      8.61,
+      null,
+      9.64,
+      7.23,
+      null,
+      null
+    ],
+    "cgpa": 8.44
+  },
+  "09001042022": {
+    "name": "URJA KOHLI",
+    "semGPA": [
+      7.91,
+      null,
+      8.91,
+      null,
+      9.27,
+      9.05,
+      null,
+      null
+    ],
+    "cgpa": 8.79
+  },
+  "09101042022": {
+    "name": "VAISHNAVI DUBEY",
+    "semGPA": [
+      5.27,
+      null,
+      6.39,
+      null,
+      8.27,
+      7.77,
+      null,
+      null
+    ],
+    "cgpa": 6.92
+  },
+  "09201042022": {
+    "name": "VAISHNAVI PILLAI",
+    "semGPA": [
+      6.09,
+      null,
+      5.7,
+      null,
+      7.82,
+      7.82,
+      null,
+      null
+    ],
+    "cgpa": 6.86
+  },
+  "09301042022": {
+    "name": "VAISHNAVI RUKHAIYAR",
+    "semGPA": [
+      7.18,
+      null,
+      7.35,
+      null,
+      9.14,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.28
+  },
+  "09401042022": {
+    "name": "VANSHIKA TOMAR",
+    "semGPA": [
+      7.55,
+      null,
+      7.87,
+      null,
+      9.0,
+      9.59,
+      null,
+      null
+    ],
+    "cgpa": 8.5
+  },
+  "09501042022": {
+    "name": "VIBHUTI SAROHA",
+    "semGPA": [
+      6.82,
+      null,
+      8.09,
+      null,
+      9.68,
+      9.77,
+      null,
+      null
+    ],
+    "cgpa": 8.59
+  },
+  "09601042022": {
+    "name": "VRADHI AGGARWAL",
+    "semGPA": [
+      7.73,
+      null,
+      8.87,
+      null,
+      9.41,
+      9.59,
+      null,
+      null
+    ],
+    "cgpa": 8.9
+  },
+  "09701042022": {
+    "name": "ZAINAB",
+    "semGPA": [
+      2.36,
+      null,
+      3.78,
+      null,
+      6.95,
+      6.18,
+      null,
+      null
+    ],
+    "cgpa": 4.82
+  },
+  "00101172022": {
+    "name": "AARUSHI SINGH",
+    "semGPA": [
+      5.43,
+      6.09,
+      6.3,
+      null,
+      7.95,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 6.84
+  },
+  "00201172022": {
+    "name": "ADITI",
+    "semGPA": [
+      6.78,
+      7.0,
+      8.22,
+      null,
+      8.32,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 7.85
+  },
+  "00301172022": {
+    "name": "ADITI GOSWAMI",
+    "semGPA": [
+      6.83,
+      8.18,
+      7.0,
+      null,
+      8.73,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 7.97
+  },
+  "00401172022": {
+    "name": "ADITI KATEHRA",
+    "semGPA": [
+      7.96,
+      8.64,
+      8.3,
+      null,
+      8.64,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.53
+  },
+  "00501172022": {
+    "name": "ADITI RATHI",
+    "semGPA": [
+      9.3,
+      9.64,
+      9.26,
+      null,
+      8.91,
+      9.73,
+      null,
+      null
+    ],
+    "cgpa": 9.37
+  },
+  "00601172022": {
+    "name": "AKSHIKA DHANKHAR",
+    "semGPA": [
+      8.61,
+      8.45,
+      7.87,
+      null,
+      8.73,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.59
+  },
+  "00701172022": {
+    "name": "ALKA GUPTA",
+    "semGPA": [
+      7.3,
+      7.27,
+      8.04,
+      null,
+      8.36,
+      9.18,
+      null,
+      null
+    ],
+    "cgpa": 8.03
+  },
+  "00801172022": {
+    "name": "ANAMIKA RATNA",
+    "semGPA": [
+      8.83,
+      9.36,
+      8.96,
+      null,
+      9.32,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 9.15
+  },
+  "00901172022": {
+    "name": "ANANDITA SAXENA",
+    "semGPA": [
+      7.91,
+      9.0,
+      9.13,
+      null,
+      8.82,
+      7.82,
+      null,
+      null
+    ],
+    "cgpa": 8.54
+  },
+  "01001172022": {
+    "name": "ANANYA",
+    "semGPA": [
+      8.48,
+      9.64,
+      8.57,
+      null,
+      9.14,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 9.04
+  },
+  "01101172022": {
+    "name": "ANANYA ARYA",
+    "semGPA": [
+      7.35,
+      8.55,
+      8.17,
+      null,
+      8.55,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.34
+  },
+  "01201172022": {
+    "name": "ANANYA ATRI",
+    "semGPA": [
+      7.0,
+      8.45,
+      8.3,
+      null,
+      8.05,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.18
+  },
+  "01301172022": {
+    "name": "ANANYA RASTOGI",
+    "semGPA": [
+      8.65,
+      8.36,
+      8.74,
+      null,
+      9.09,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 8.84
+  },
+  "01401172022": {
+    "name": "ANCHAL ROY",
+    "semGPA": [
+      6.65,
+      7.64,
+      7.0,
+      null,
+      8.91,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 7.84
+  },
+  "01501172022": {
+    "name": "ANIKETA SAHAY",
+    "semGPA": [
+      7.13,
+      8.09,
+      8.39,
+      null,
+      9.0,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 8.29
+  },
+  "01601172022": {
+    "name": "ANJALI SAROJ",
+    "semGPA": [
+      6.61,
+      7.27,
+      7.87,
+      null,
+      8.18,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 7.7
+  },
+  "01701172022": {
+    "name": "ANJALI VERMA",
+    "semGPA": [
+      6.96,
+      7.55,
+      8.0,
+      null,
+      9.59,
+      9.18,
+      null,
+      null
+    ],
+    "cgpa": 8.26
+  },
+  "01801172022": {
+    "name": "ANJUM",
+    "semGPA": [
+      8.83,
+      8.64,
+      8.3,
+      null,
+      9.18,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.77
+  },
+  "01901172022": {
+    "name": "ANKITA",
+    "semGPA": [
+      8.83,
+      9.55,
+      9.35,
+      null,
+      9.36,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 9.22
+  },
+  "02001172022": {
+    "name": "ANSHI MITTAL",
+    "semGPA": [
+      9.3,
+      9.27,
+      9.22,
+      null,
+      9.36,
+      9.18,
+      null,
+      null
+    ],
+    "cgpa": 9.27
+  },
+  "02101172022": {
+    "name": "ANSHIKA AGARWAL",
+    "semGPA": [
+      9.3,
+      9.73,
+      9.35,
+      null,
+      9.95,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.63
+  },
+  "02201172022": {
+    "name": "ANSHIKA CHAUDHARY",
+    "semGPA": [
+      7.91,
+      8.73,
+      8.57,
+      null,
+      8.23,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.54
+  },
+  "02301172022": {
+    "name": "ANSHIKA REWLIYA",
+    "semGPA": [
+      8.26,
+      9.45,
+      9.57,
+      null,
+      9.77,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.37
+  },
+  "02401172022": {
+    "name": "ANSHIKA SOLANKI",
+    "semGPA": [
+      9.48,
+      9.0,
+      9.04,
+      null,
+      9.05,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 9.17
+  },
+  "02501172022": {
+    "name": "ANSHU",
+    "semGPA": [
+      6.96,
+      7.82,
+      7.78,
+      null,
+      7.5,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 7.7
+  },
+  "02601172022": {
+    "name": "ANUPRIYA BIALA",
+    "semGPA": [
+      9.3,
+      9.18,
+      9.22,
+      null,
+      9.18,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.3
+  },
+  "02701172022": {
+    "name": "ANUSHA PALIA",
+    "semGPA": [
+      3.09,
+      4.55,
+      4.0,
+      null,
+      6.0,
+      7.91,
+      null,
+      null
+    ],
+    "cgpa": 5.11
+  },
+  "02801172022": {
+    "name": "ANUSHREE BONDIA",
+    "semGPA": [
+      9.83,
+      9.64,
+      9.78,
+      null,
+      9.64,
+      9.73,
+      null,
+      null
+    ],
+    "cgpa": 9.72
+  },
+  "02901172022": {
+    "name": "ANUSHREE SHARMA",
+    "semGPA": [
+      9.52,
+      9.55,
+      9.35,
+      null,
+      9.68,
+      9.73,
+      null,
+      null
+    ],
+    "cgpa": 9.57
+  },
+  "03001172022": {
+    "name": "APOORVA",
+    "semGPA": [
+      8.26,
+      9.09,
+      8.39,
+      null,
+      7.77,
+      8.09,
+      null,
+      null
+    ],
+    "cgpa": 8.32
+  },
+  "03101172022": {
+    "name": "ARCHIE SACHDEVA",
+    "semGPA": [
+      6.91,
+      8.73,
+      8.35,
+      null,
+      9.09,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.51
+  },
+  "03201172022": {
+    "name": "ARSHDEEP KAUR",
+    "semGPA": [
+      7.57,
+      9.0,
+      8.65,
+      null,
+      9.09,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 8.63
+  },
+  "03301172022": {
+    "name": "ARZOO",
+    "semGPA": [
+      8.61,
+      9.09,
+      9.7,
+      null,
+      9.45,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.37
+  },
+  "03401172022": {
+    "name": "ASHMITA SHARMA",
+    "semGPA": [
+      7.83,
+      8.0,
+      7.17,
+      null,
+      9.27,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.27
+  },
+  "03501172022": {
+    "name": "AYUSHI GOYAL",
+    "semGPA": [
+      0.0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 0.0
+  },
+  "03601172022": {
+    "name": "BHAVYA SAINI",
+    "semGPA": [
+      6.83,
+      8.27,
+      7.87,
+      null,
+      7.91,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 8.05
+  },
+  "03701172022": {
+    "name": "BHUMIKA BANSAL",
+    "semGPA": [
+      9.0,
+      9.36,
+      8.83,
+      null,
+      9.05,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 9.07
+  },
+  "03801172022": {
+    "name": "CHAITALI JAIN",
+    "semGPA": [
+      6.83,
+      8.64,
+      8.13,
+      null,
+      9.45,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.41
+  },
+  "03901172022": {
+    "name": "CHHAVI",
+    "semGPA": [
+      6.78,
+      7.55,
+      7.35,
+      null,
+      8.55,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 7.76
+  },
+  "04001172022": {
+    "name": "DEEPIKA JAIN",
+    "semGPA": [
+      7.3,
+      8.64,
+      7.78,
+      null,
+      7.5,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 7.99
+  },
+  "04101172022": {
+    "name": "DEEPTI KACHROO",
+    "semGPA": [
+      5.78,
+      6.91,
+      6.48,
+      null,
+      6.41,
+      7.09,
+      null,
+      null
+    ],
+    "cgpa": 6.53
+  },
+  "04201172022": {
+    "name": "DIKSHA NARANG",
+    "semGPA": [
+      8.83,
+      9.09,
+      9.35,
+      null,
+      9.27,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 9.2
+  },
+  "04301172022": {
+    "name": "DISHA BAJAJ",
+    "semGPA": [
+      9.48,
+      9.82,
+      9.57,
+      null,
+      9.59,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.66
+  },
+  "04401172022": {
+    "name": "DIYA CHINIWALA",
+    "semGPA": [
+      6.26,
+      8.0,
+      5.78,
+      null,
+      7.45,
+      7.82,
+      null,
+      null
+    ],
+    "cgpa": 7.06
+  },
+  "04501172022": {
+    "name": "GANGUPOMU",
+    "semGPA": [
+      7.78,
+      8.55,
+      8.78,
+      null,
+      9.14,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.74
+  },
+  "04601172022": {
+    "name": "GARIMA BHUSHAN",
+    "semGPA": [
+      6.7,
+      7.27,
+      6.65,
+      null,
+      8.23,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 7.55
+  },
+  "04701172022": {
+    "name": "GAURI MITTAL",
+    "semGPA": [
+      9.3,
+      9.36,
+      8.57,
+      null,
+      9.41,
+      9.55,
+      null,
+      null
+    ],
+    "cgpa": 9.24
+  },
+  "04801172022": {
+    "name": "GEETA GARG",
+    "semGPA": [
+      6.87,
+      8.64,
+      8.35,
+      null,
+      8.82,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 8.41
+  },
+  "04901172022": {
+    "name": "GIRISHA SINGH",
+    "semGPA": [
+      8.65,
+      9.36,
+      9.3,
+      null,
+      8.95,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.18
+  },
+  "05001172022": {
+    "name": "HARSHITA RAJORIA",
+    "semGPA": [
+      6.78,
+      8.18,
+      8.04,
+      null,
+      8.5,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.1
+  },
+  "05101172022": {
+    "name": "HEMLATA",
+    "semGPA": [
+      7.13,
+      7.91,
+      8.57,
+      null,
+      8.55,
+      9.55,
+      null,
+      null
+    ],
+    "cgpa": 8.34
+  },
+  "05201172022": {
+    "name": "HIMANSHI KAUSHAL",
+    "semGPA": [
+      9.48,
+      9.73,
+      9.43,
+      null,
+      9.18,
+      9.73,
+      null,
+      null
+    ],
+    "cgpa": 9.51
+  },
+  "05401172022": {
+    "name": "ISHIKA",
+    "semGPA": [
+      6.52,
+      6.27,
+      7.13,
+      null,
+      8.59,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 7.47
+  },
+  "05501172022": {
+    "name": "ISHITA LAL",
+    "semGPA": [
+      3.3,
+      4.82,
+      4.61,
+      null,
+      4.14,
+      2.91,
+      null,
+      null
+    ],
+    "cgpa": 3.96
+  },
+  "05601172022": {
+    "name": "ISHITA PAUL",
+    "semGPA": [
+      9.3,
+      9.45,
+      9.48,
+      null,
+      9.73,
+      9.73,
+      null,
+      null
+    ],
+    "cgpa": 9.54
+  },
+  "05701172022": {
+    "name": "JASMINE SORENG",
+    "semGPA": [
+      5.26,
+      7.55,
+      7.65,
+      null,
+      8.64,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 7.71
+  },
+  "05801172022": {
+    "name": "JHANAVI MALHOTRA",
+    "semGPA": [
+      9.48,
+      10.0,
+      9.7,
+      null,
+      9.18,
+      9.55,
+      null,
+      null
+    ],
+    "cgpa": 9.58
+  },
+  "05901172022": {
+    "name": "KAJAL",
+    "semGPA": [
+      7.96,
+      8.64,
+      8.61,
+      null,
+      8.68,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.56
+  },
+  "06001172022": {
+    "name": "KAJAL YADAV",
+    "semGPA": [
+      7.48,
+      8.82,
+      8.04,
+      null,
+      7.36,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.23
+  },
+  "06101172022": {
+    "name": "KASHISH NARWAL",
+    "semGPA": [
+      9.48,
+      9.0,
+      9.61,
+      null,
+      9.77,
+      9.55,
+      null,
+      null
+    ],
+    "cgpa": 9.48
+  },
+  "06201172022": {
+    "name": "KAVISHA GUPTA",
+    "semGPA": [
+      5.48,
+      7.18,
+      5.87,
+      null,
+      7.55,
+      8.18,
+      null,
+      null
+    ],
+    "cgpa": 6.85
+  },
+  "06301172022": {
+    "name": "KAVYA SINGLA",
+    "semGPA": [
+      9.3,
+      9.64,
+      9.43,
+      null,
+      9.32,
+      9.73,
+      null,
+      null
+    ],
+    "cgpa": 9.48
+  },
+  "06401172022": {
+    "name": "KHUSHBOO VERMA",
+    "semGPA": [
+      7.78,
+      8.73,
+      8.48,
+      null,
+      8.91,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.63
+  },
+  "06501172022": {
+    "name": "KHUSHI SINGH",
+    "semGPA": [
+      7.52,
+      8.64,
+      8.7,
+      null,
+      8.45,
+      9.55,
+      null,
+      null
+    ],
+    "cgpa": 8.57
+  },
+  "06601172022": {
+    "name": "KOMAL",
+    "semGPA": [
+      2.26,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 2.26
+  },
+  "06701172022": {
+    "name": "KRITI JAIN",
+    "semGPA": [
+      9.65,
+      9.91,
+      9.61,
+      null,
+      9.73,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.74
+  },
+  "06801172022": {
+    "name": "KUTADA LASYA DUTT",
+    "semGPA": [
+      6.09,
+      8.27,
+      8.13,
+      null,
+      8.77,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 8.12
+  },
+  "06901172022": {
+    "name": "MAHI GUPTA",
+    "semGPA": [
+      3.0,
+      7.45,
+      7.04,
+      null,
+      6.18,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 6.5
+  },
+  "07001172022": {
+    "name": "MANASVI SINGH",
+    "semGPA": [
+      4.09,
+      7.45,
+      7.17,
+      null,
+      8.41,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 7.24
+  },
+  "07101172022": {
+    "name": "MANSI TEKALE",
+    "semGPA": [
+      8.83,
+      8.64,
+      9.0,
+      null,
+      9.0,
+      9.18,
+      null,
+      null
+    ],
+    "cgpa": 8.93
+  },
+  "07201172022": {
+    "name": "MANUSHREE GROVER",
+    "semGPA": [
+      8.96,
+      9.73,
+      9.43,
+      null,
+      9.86,
+      9.73,
+      null,
+      null
+    ],
+    "cgpa": 9.54
+  },
+  "07301172022": {
+    "name": "MANVI SHARMA",
+    "semGPA": [
+      8.17,
+      8.73,
+      8.43,
+      null,
+      8.91,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 8.72
+  },
+  "07401172022": {
+    "name": "MANVI UPADHYAY",
+    "semGPA": [
+      8.3,
+      9.0,
+      9.13,
+      null,
+      9.32,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.11
+  },
+  "07501172022": {
+    "name": "MANYA KATARIA",
+    "semGPA": [
+      5.3,
+      4.82,
+      4.39,
+      null,
+      7.18,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 6.07
+  },
+  "07601172022": {
+    "name": "MEHAKPREET KAUR",
+    "semGPA": [
+      7.3,
+      7.27,
+      8.13,
+      null,
+      8.05,
+      8.36,
+      null,
+      null
+    ],
+    "cgpa": 7.82
+  },
+  "07701172022": {
+    "name": "MISTHA PANWAR",
+    "semGPA": [
+      7.13,
+      7.27,
+      7.57,
+      null,
+      8.55,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 7.89
+  },
+  "07801172022": {
+    "name": "MUSKAN",
+    "semGPA": [
+      9.0,
+      9.18,
+      8.39,
+      null,
+      9.09,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.93
+  },
+  "07901172022": {
+    "name": "MUSKAN GAUTAM",
+    "semGPA": [
+      6.48,
+      8.27,
+      7.43,
+      null,
+      6.91,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 7.62
+  },
+  "08001172022": {
+    "name": "MUSKAN JARWAL",
+    "semGPA": [
+      7.83,
+      8.64,
+      8.57,
+      null,
+      9.18,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 8.84
+  },
+  "08101172022": {
+    "name": "MUSKAN KUMARI",
+    "semGPA": [
+      9.48,
+      9.73,
+      8.91,
+      null,
+      9.32,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.45
+  },
+  "08201172022": {
+    "name": "MUSKAN SINGH",
+    "semGPA": [
+      8.65,
+      9.55,
+      9.48,
+      null,
+      9.91,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.52
+  },
+  "08301172022": {
+    "name": "NANCY PATHAK",
+    "semGPA": [
+      8.13,
+      8.55,
+      8.43,
+      null,
+      8.55,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.62
+  },
+  "08401172022": {
+    "name": "NANDINI R. MAHARANA",
+    "semGPA": [
+      6.65,
+      7.36,
+      7.87,
+      null,
+      8.23,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 7.8
+  },
+  "08501172022": {
+    "name": "NAVYA NIMAYAK",
+    "semGPA": [
+      8.65,
+      9.18,
+      9.35,
+      null,
+      9.55,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.31
+  },
+  "08601172022": {
+    "name": "NEETIKA GOEL",
+    "semGPA": [
+      9.48,
+      9.82,
+      9.83,
+      null,
+      10.0,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.83
+  },
+  "08701172022": {
+    "name": "NISHA",
+    "semGPA": [
+      5.35,
+      5.73,
+      6.13,
+      null,
+      6.68,
+      6.91,
+      null,
+      null
+    ],
+    "cgpa": 6.16
+  },
+  "08801172022": {
+    "name": "NISHTHA GUPTA",
+    "semGPA": [
+      9.52,
+      9.82,
+      9.57,
+      null,
+      9.77,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.7
+  },
+  "08901172022": {
+    "name": "NYSA",
+    "semGPA": [
+      6.39,
+      6.82,
+      6.39,
+      null,
+      7.05,
+      7.91,
+      null,
+      null
+    ],
+    "cgpa": 6.91
+  },
+  "09001172022": {
+    "name": "PALAK DOGRA",
+    "semGPA": [
+      8.96,
+      9.55,
+      9.61,
+      null,
+      9.59,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.54
+  },
+  "09101172022": {
+    "name": "PALLIKA DHINGRA",
+    "semGPA": [
+      9.65,
+      9.36,
+      9.3,
+      null,
+      9.41,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.51
+  },
+  "09201172022": {
+    "name": "PARI CHAUHAN",
+    "semGPA": [
+      8.96,
+      9.64,
+      9.52,
+      null,
+      9.41,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.47
+  },
+  "09301172022": {
+    "name": "PAYAL",
+    "semGPA": [
+      9.0,
+      9.82,
+      9.57,
+      null,
+      9.5,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.54
+  },
+  "09401172022": {
+    "name": "PRACHI VERMA",
+    "semGPA": [
+      8.78,
+      9.55,
+      9.17,
+      null,
+      9.55,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.37
+  },
+  "09501172022": {
+    "name": "PRAKRITI MAURYA",
+    "semGPA": [
+      9.13,
+      9.55,
+      9.0,
+      null,
+      8.73,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 9.17
+  },
+  "09601172022": {
+    "name": "PRATIGYA SHARMA",
+    "semGPA": [
+      5.13,
+      4.82,
+      7.52,
+      null,
+      8.59,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 7.07
+  },
+  "09701172022": {
+    "name": "PREKSHA JOON",
+    "semGPA": [
+      0.0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 0.0
+  },
+  "09801172022": {
+    "name": "PRIYA",
+    "semGPA": [
+      5.48,
+      7.36,
+      7.96,
+      null,
+      8.27,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 7.5
+  },
+  "09901172022": {
+    "name": "PRIYA GULATI",
+    "semGPA": [
+      8.35,
+      9.73,
+      9.3,
+      null,
+      8.95,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.23
+  },
+  "10001172022": {
+    "name": "RADHIKA GUPTA",
+    "semGPA": [
+      8.13,
+      9.45,
+      9.17,
+      null,
+      9.14,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 9.07
+  },
+  "10101172022": {
+    "name": "RADHIKA SHARMA",
+    "semGPA": [
+      0.0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 0.0
+  },
+  "10201172022": {
+    "name": "Ranya Batsyas",
+    "semGPA": [
+      7.0,
+      7.36,
+      8.09,
+      null,
+      8.55,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.09
+  },
+  "10301172022": {
+    "name": "RITISHA MOHAN",
+    "semGPA": [
+      2.26,
+      3.0,
+      5.78,
+      null,
+      5.73,
+      7.0,
+      null,
+      null
+    ],
+    "cgpa": 4.75
+  },
+  "10401172022": {
+    "name": "RIYA AHLAWAT",
+    "semGPA": [
+      9.65,
+      9.64,
+      9.48,
+      null,
+      9.82,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.68
+  },
+  "10501172022": {
+    "name": "RIYA TANWAR",
+    "semGPA": [
+      5.17,
+      5.73,
+      6.78,
+      null,
+      7.59,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 6.84
+  },
+  "10701172022": {
+    "name": "SAACHI BANSAL",
+    "semGPA": [
+      9.65,
+      9.73,
+      9.48,
+      null,
+      9.77,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.69
+  },
+  "10801172022": {
+    "name": "SAKSHI",
+    "semGPA": [
+      7.09,
+      8.27,
+      7.91,
+      null,
+      8.68,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 8.12
+  },
+  "10901172022": {
+    "name": "SAKSHI ROY",
+    "semGPA": [
+      6.09,
+      6.27,
+      7.74,
+      null,
+      9.14,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 7.78
+  },
+  "11001172022": {
+    "name": "SAMRIDDHI TIWARI",
+    "semGPA": [
+      8.35,
+      8.91,
+      9.13,
+      null,
+      9.23,
+      9.55,
+      null,
+      null
+    ],
+    "cgpa": 9.03
+  },
+  "11101172022": {
+    "name": "SANIA SAINI",
+    "semGPA": [
+      9.13,
+      9.73,
+      9.3,
+      null,
+      9.55,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.51
+  },
+  "11201172022": {
+    "name": "SANJANA",
+    "semGPA": [
+      5.52,
+      5.91,
+      7.26,
+      null,
+      8.82,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 7.36
+  },
+  "11301172022": {
+    "name": "SANJANA BAMNAVAT",
+    "semGPA": [
+      3.13,
+      4.27,
+      7.61,
+      null,
+      8.14,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 6.45
+  },
+  "11401172022": {
+    "name": "SANSKRITI VIDUSHI",
+    "semGPA": [
+      8.78,
+      9.55,
+      9.3,
+      null,
+      9.73,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.44
+  },
+  "11501172022": {
+    "name": "SHAMBHAVI SINGH",
+    "semGPA": [
+      7.61,
+      8.91,
+      9.09,
+      null,
+      9.55,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.0
+  },
+  "11601172022": {
+    "name": "SHATAKSHI BANSAL",
+    "semGPA": [
+      8.26,
+      9.27,
+      8.91,
+      null,
+      9.23,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.95
+  },
+  "11701172022": {
+    "name": "SHIVANI SINGH",
+    "semGPA": [
+      1.39,
+      3.18,
+      3.3,
+      null,
+      5.64,
+      6.27,
+      null,
+      null
+    ],
+    "cgpa": 3.96
+  },
+  "11801172022": {
+    "name": "SHREEYA AGGARWAL",
+    "semGPA": [
+      8.13,
+      8.64,
+      8.87,
+      null,
+      9.41,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.9
+  },
+  "11901172022": {
+    "name": "SHRUTI JHA",
+    "semGPA": [
+      7.83,
+      7.73,
+      7.74,
+      null,
+      8.95,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.3
+  },
+  "12001172022": {
+    "name": "SHRUTI SAHU",
+    "semGPA": [
+      8.78,
+      9.27,
+      9.22,
+      null,
+      9.18,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.25
+  },
+  "12101172022": {
+    "name": "SHRUTI SHARMA",
+    "semGPA": [
+      7.13,
+      8.09,
+      8.52,
+      null,
+      8.59,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.32
+  },
+  "12201172022": {
+    "name": "SHRUTI TRIPATHI",
+    "semGPA": [
+      8.83,
+      9.0,
+      8.78,
+      null,
+      8.91,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.92
+  },
+  "12301172022": {
+    "name": "SHUBH KRISHNA",
+    "semGPA": [
+      7.3,
+      7.82,
+      8.26,
+      null,
+      8.68,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.23
+  },
+  "12401172022": {
+    "name": "SHUBHANSHI",
+    "semGPA": [
+      0.0,
+      0.0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 0.0
+  },
+  "12501172022": {
+    "name": "SIMRAN SOLANKI",
+    "semGPA": [
+      7.61,
+      8.18,
+      8.13,
+      null,
+      8.09,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 8.15
+  },
+  "12601172022": {
+    "name": "SNEHA JAIN",
+    "semGPA": [
+      5.26,
+      4.82,
+      5.57,
+      null,
+      6.73,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 6.22
+  },
+  "12701172022": {
+    "name": "SNEHA KACHHAP",
+    "semGPA": [
+      8.09,
+      8.64,
+      8.83,
+      null,
+      9.36,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.87
+  },
+  "12801172022": {
+    "name": "SNEHA RAWAT",
+    "semGPA": [
+      7.96,
+      8.73,
+      8.83,
+      null,
+      7.73,
+      8.27,
+      null,
+      null
+    ],
+    "cgpa": 8.3
+  },
+  "12901172022": {
+    "name": "SOHNI MALIK",
+    "semGPA": [
+      5.83,
+      6.36,
+      5.48,
+      null,
+      7.36,
+      8.18,
+      null,
+      null
+    ],
+    "cgpa": 6.64
+  },
+  "13001172022": {
+    "name": "Sona Antony",
+    "semGPA": [
+      4.39,
+      6.73,
+      7.17,
+      null,
+      8.14,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 7.07
+  },
+  "13101172022": {
+    "name": "SONALI",
+    "semGPA": [
+      5.09,
+      7.09,
+      7.83,
+      null,
+      7.95,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 7.37
+  },
+  "13201172022": {
+    "name": "SONAM KUMARI",
+    "semGPA": [
+      6.22,
+      7.27,
+      8.17,
+      null,
+      8.82,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.02
+  },
+  "13301172022": {
+    "name": "SONI KUMARI",
+    "semGPA": [
+      5.3,
+      7.09,
+      7.04,
+      null,
+      8.23,
+      9.73,
+      null,
+      null
+    ],
+    "cgpa": 7.48
+  },
+  "13401172022": {
+    "name": "SOUMYA MISHRA",
+    "semGPA": [
+      0.0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 0.0
+  },
+  "13501172022": {
+    "name": "SRISHTI CHAUHAN",
+    "semGPA": [
+      9.83,
+      9.82,
+      9.3,
+      null,
+      10.0,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.79
+  },
+  "13601172022": {
+    "name": "SRISHTI CHUGH",
+    "semGPA": [
+      8.7,
+      8.82,
+      8.65,
+      null,
+      9.32,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.03
+  },
+  "13701172022": {
+    "name": "STUTI TIWARI",
+    "semGPA": [
+      8.78,
+      9.18,
+      9.04,
+      null,
+      9.18,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.16
+  },
+  "13801172022": {
+    "name": "SUKANYA SHARMA",
+    "semGPA": [
+      5.61,
+      3.64,
+      6.78,
+      null,
+      7.5,
+      8.0,
+      null,
+      null
+    ],
+    "cgpa": 6.31
+  },
+  "13901172022": {
+    "name": "SURBHI VERMA",
+    "semGPA": [
+      4.78,
+      7.18,
+      7.96,
+      null,
+      9.05,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 7.79
+  },
+  "14001172022": {
+    "name": "SWASTI SAHU",
+    "semGPA": [
+      3.74,
+      6.45,
+      3.78,
+      null,
+      1.0,
+      0.0,
+      null,
+      null
+    ],
+    "cgpa": 2.99
+  },
+  "14101172022": {
+    "name": "TAMANNA",
+    "semGPA": [
+      5.3,
+      6.09,
+      5.65,
+      null,
+      7.91,
+      7.73,
+      null,
+      null
+    ],
+    "cgpa": 6.54
+  },
+  "14201172022": {
+    "name": "TAMANNA",
+    "semGPA": [
+      7.26,
+      9.0,
+      8.83,
+      null,
+      9.5,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.74
+  },
+  "14301172022": {
+    "name": "TANISHA BANSAL",
+    "semGPA": [
+      8.26,
+      9.18,
+      9.43,
+      null,
+      9.14,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.17
+  },
+  "14401172022": {
+    "name": "TANU RAMAN",
+    "semGPA": [
+      6.7,
+      7.64,
+      7.35,
+      null,
+      6.86,
+      7.55,
+      null,
+      null
+    ],
+    "cgpa": 7.22
+  },
+  "14501172022": {
+    "name": "TANVI BISHT",
+    "semGPA": [
+      9.65,
+      9.91,
+      9.3,
+      null,
+      9.86,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.71
+  },
+  "14601172022": {
+    "name": "TANYA GUPTA",
+    "semGPA": [
+      9.0,
+      9.55,
+      9.48,
+      null,
+      9.68,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.51
+  },
+  "14701172022": {
+    "name": "TANYA KUMARI",
+    "semGPA": [
+      5.96,
+      6.73,
+      8.3,
+      null,
+      8.73,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 7.8
+  },
+  "14801172022": {
+    "name": "TANYA RAJPUT",
+    "semGPA": [
+      4.61,
+      6.09,
+      6.65,
+      null,
+      7.41,
+      8.18,
+      null,
+      null
+    ],
+    "cgpa": 6.59
+  },
+  "15001172022": {
+    "name": "TUBA TALIB",
+    "semGPA": [
+      8.65,
+      8.73,
+      8.26,
+      null,
+      9.18,
+      9.55,
+      null,
+      null
+    ],
+    "cgpa": 8.87
+  },
+  "15101172022": {
+    "name": "UDETTA JAIN",
+    "semGPA": [
+      9.04,
+      9.55,
+      9.04,
+      null,
+      9.55,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.36
+  },
+  "15201172022": {
+    "name": "VAISHNAVI SAXENA",
+    "semGPA": [
+      8.96,
+      9.18,
+      8.96,
+      null,
+      9.36,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 9.15
+  },
+  "15301172022": {
+    "name": "VANSHIKA JAIN",
+    "semGPA": [
+      8.3,
+      9.09,
+      9.3,
+      null,
+      9.18,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.14
+  },
+  "15401172022": {
+    "name": "VINISHA",
+    "semGPA": [
+      4.0,
+      6.27,
+      6.91,
+      null,
+      7.55,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 6.64
+  },
+  "15501172022": {
+    "name": "VISHAKHA",
+    "semGPA": [
+      3.83,
+      5.73,
+      6.91,
+      null,
+      8.55,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 6.97
+  },
+  "15601172022": {
+    "name": "YASHIKA SAGAR",
+    "semGPA": [
+      6.78,
+      7.09,
+      8.17,
+      null,
+      9.09,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 8.1
+  },
+  "15701172022": {
+    "name": "YATIKA",
+    "semGPA": [
+      7.78,
+      7.36,
+      8.74,
+      null,
+      8.73,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.38
+  },
+  "00101192022": {
+    "name": "AAROHI SHARMA",
+    "semGPA": [
+      6.09,
+      7.82,
+      7.91,
+      8.64,
+      8.23,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.05
+  },
+  "00201192022": {
+    "name": "AARUSHI DUBEY",
+    "semGPA": [
+      7.09,
+      8.64,
+      8.43,
+      8.45,
+      8.27,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 8.24
+  },
+  "00301192022": {
+    "name": "ADVIKA THAKUR",
+    "semGPA": [
+      7.13,
+      8.73,
+      8.35,
+      8.64,
+      8.27,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 8.28
+  },
+  "00401192022": {
+    "name": "AMISHI BHAMRA",
+    "semGPA": [
+      5.61,
+      6.82,
+      8.09,
+      8.09,
+      7.5,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 7.43
+  },
+  "00501192022": {
+    "name": "ANANDITA MAYER",
+    "semGPA": [
+      8.65,
+      9.0,
+      8.7,
+      8.64,
+      8.95,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.9
+  },
+  "00601192022": {
+    "name": "ANANYA SINGH",
+    "semGPA": [
+      8.13,
+      8.91,
+      8.78,
+      8.0,
+      8.59,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.64
+  },
+  "00701192022": {
+    "name": "ANCHAL MALIK",
+    "semGPA": [
+      7.3,
+      7.73,
+      8.52,
+      7.36,
+      8.32,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.04
+  },
+  "00801192022": {
+    "name": "ANIKA VYAS",
+    "semGPA": [
+      3.83,
+      5.18,
+      5.52,
+      7.73,
+      5.95,
+      7.82,
+      null,
+      null
+    ],
+    "cgpa": 6.0
+  },
+  "00901192022": {
+    "name": "ANKITA PRAJAPATI",
+    "semGPA": [
+      5.78,
+      7.27,
+      8.61,
+      7.64,
+      7.95,
+      8.27,
+      null,
+      null
+    ],
+    "cgpa": 7.59
+  },
+  "01001192022": {
+    "name": "ANSHIKA GOYAL",
+    "semGPA": [
+      8.7,
+      9.18,
+      9.39,
+      9.27,
+      9.36,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.26
+  },
+  "01101192022": {
+    "name": "ANSHU",
+    "semGPA": [
+      4.74,
+      5.91,
+      8.09,
+      8.18,
+      6.82,
+      7.73,
+      null,
+      null
+    ],
+    "cgpa": 6.91
+  },
+  "01201192022": {
+    "name": "ANUSHKA SHANKAR",
+    "semGPA": [
+      5.96,
+      7.82,
+      7.83,
+      8.0,
+      7.59,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 7.66
+  },
+  "01301192022": {
+    "name": "APOORVA",
+    "semGPA": [
+      5.91,
+      7.64,
+      8.78,
+      8.55,
+      8.0,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 8.04
+  },
+  "01401192022": {
+    "name": "ARUSHI",
+    "semGPA": [
+      7.65,
+      9.0,
+      9.48,
+      8.73,
+      9.5,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.0
+  },
+  "01501192022": {
+    "name": "AVISHA",
+    "semGPA": [
+      4.52,
+      6.45,
+      6.91,
+      7.55,
+      6.59,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 6.75
+  },
+  "01601192022": {
+    "name": "AYUSHI DUBEY",
+    "semGPA": [
+      9.17,
+      9.45,
+      9.3,
+      9.55,
+      9.5,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.46
+  },
+  "01701192022": {
+    "name": "AZMEEN KHATOON",
+    "semGPA": [
+      6.09,
+      9.09,
+      8.52,
+      8.91,
+      8.82,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.45
+  },
+  "01801192022": {
+    "name": "BHUMIKA GUPTA",
+    "semGPA": [
+      7.13,
+      8.45,
+      8.7,
+      9.45,
+      8.77,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.58
+  },
+  "01901192022": {
+    "name": "CHHAVI VERMA",
+    "semGPA": [
+      7.61,
+      8.73,
+      8.17,
+      8.82,
+      7.55,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.42
+  },
+  "02001192022": {
+    "name": "DEVANSHI",
+    "semGPA": [
+      7.96,
+      8.64,
+      8.52,
+      7.73,
+      7.86,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 8.26
+  },
+  "02101192022": {
+    "name": "GEDAM CHARITA",
+    "semGPA": [
+      2.83,
+      1.55,
+      4.91,
+      2.64,
+      3.36,
+      6.0,
+      null,
+      null
+    ],
+    "cgpa": 3.55
+  },
+  "02201192022": {
+    "name": "GUNGUN SINGH",
+    "semGPA": [
+      9.52,
+      9.82,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 9.67
+  },
+  "02301192022": {
+    "name": "HEMLATA",
+    "semGPA": [
+      5.96,
+      7.18,
+      7.74,
+      7.91,
+      7.55,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 7.56
+  },
+  "02401192022": {
+    "name": "ISHA SWAMI",
+    "semGPA": [
+      5.78,
+      7.18,
+      7.48,
+      6.36,
+      8.45,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 7.38
+  },
+  "02501192022": {
+    "name": "KANAK",
+    "semGPA": [
+      5.74,
+      5.82,
+      6.78,
+      7.36,
+      6.32,
+      8.27,
+      null,
+      null
+    ],
+    "cgpa": 6.71
+  },
+  "02601192022": {
+    "name": "KANCHAN",
+    "semGPA": [
+      6.26,
+      6.82,
+      8.26,
+      9.09,
+      9.14,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 8.26
+  },
+  "02701192022": {
+    "name": "KHUSHI KANKHERIA",
+    "semGPA": [
+      4.39,
+      5.91,
+      7.48,
+      7.55,
+      7.55,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 6.89
+  },
+  "02901192022": {
+    "name": "LAKSHIKA",
+    "semGPA": [
+      4.52,
+      6.55,
+      8.17,
+      7.45,
+      7.45,
+      8.36,
+      null,
+      null
+    ],
+    "cgpa": 7.08
+  },
+  "03001192022": {
+    "name": "MADHULIKA",
+    "semGPA": [
+      3.83,
+      4.64,
+      6.48,
+      6.45,
+      6.45,
+      7.91,
+      null,
+      null
+    ],
+    "cgpa": 5.96
+  },
+  "03101192022": {
+    "name": "MANASVI JINDAL",
+    "semGPA": [
+      8.35,
+      8.55,
+      9.13,
+      9.64,
+      9.55,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.14
+  },
+  "03201192022": {
+    "name": "MEDHAVI BHARDWAJ",
+    "semGPA": [
+      7.83,
+      9.09,
+      8.78,
+      8.91,
+      8.68,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.76
+  },
+  "03301192022": {
+    "name": "MEDHAVI SINGH",
+    "semGPA": [
+      5.3,
+      7.09,
+      8.61,
+      8.09,
+      8.45,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 7.8
+  },
+  "03401192022": {
+    "name": "MONYA MEHTA",
+    "semGPA": [
+      9.04,
+      9.55,
+      9.65,
+      9.82,
+      9.55,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.6
+  },
+  "03501192022": {
+    "name": "MUSKAN",
+    "semGPA": [
+      2.26,
+      3.45,
+      4.3,
+      5.09,
+      5.09,
+      5.27,
+      null,
+      null
+    ],
+    "cgpa": 4.24
+  },
+  "03601192022": {
+    "name": "MUSKAN GURAIN",
+    "semGPA": [
+      2.52,
+      2.64,
+      4.57,
+      3.91,
+      5.05,
+      6.09,
+      null,
+      null
+    ],
+    "cgpa": 4.13
+  },
+  "03701192022": {
+    "name": "MUSKAN KUMARI",
+    "semGPA": [
+      6.26,
+      8.0,
+      7.65,
+      8.09,
+      8.18,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 7.8
+  },
+  "03801192022": {
+    "name": "NAMITA BHATT",
+    "semGPA": [
+      8.87,
+      9.0,
+      9.13,
+      9.09,
+      9.82,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.29
+  },
+  "03901192022": {
+    "name": "NAVYA VERMA",
+    "semGPA": [
+      7.61,
+      8.36,
+      8.52,
+      8.55,
+      9.32,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 8.73
+  },
+  "04001192022": {
+    "name": "NISHIKA SHARMA",
+    "semGPA": [
+      3.83,
+      5.36,
+      6.3,
+      5.55,
+      5.27,
+      6.82,
+      null,
+      null
+    ],
+    "cgpa": 5.52
+  },
+  "04101192022": {
+    "name": "NISHTHA KARWAL",
+    "semGPA": [
+      7.3,
+      8.0,
+      9.13,
+      8.91,
+      9.18,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.69
+  },
+  "04201192022": {
+    "name": "PALAK JETHWANI",
+    "semGPA": [
+      8.7,
+      9.55,
+      9.65,
+      9.0,
+      9.68,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.43
+  },
+  "04301192022": {
+    "name": "PALAK MANGLA",
+    "semGPA": [
+      8.87,
+      9.36,
+      9.22,
+      9.82,
+      9.77,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.45
+  },
+  "04401192022": {
+    "name": "PARUL",
+    "semGPA": [
+      8.52,
+      9.64,
+      9.74,
+      9.45,
+      9.5,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 9.35
+  },
+  "04501192022": {
+    "name": "PRAGGYA VERMA",
+    "semGPA": [
+      7.48,
+      8.55,
+      8.87,
+      8.64,
+      8.95,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 8.75
+  },
+  "04601192022": {
+    "name": "PRERNA ARYA",
+    "semGPA": [
+      6.78,
+      8.0,
+      9.04,
+      9.09,
+      9.41,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.66
+  },
+  "04701192022": {
+    "name": "PRESHITA VERMA",
+    "semGPA": [
+      5.91,
+      6.0,
+      7.57,
+      7.55,
+      7.41,
+      7.82,
+      null,
+      null
+    ],
+    "cgpa": 7.04
+  },
+  "04801192022": {
+    "name": "PRISHA VIRMANI",
+    "semGPA": [
+      8.35,
+      9.55,
+      9.39,
+      9.45,
+      9.32,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.34
+  },
+  "04901192022": {
+    "name": "PRIYAL CHAWLA",
+    "semGPA": [
+      6.78,
+      9.27,
+      8.87,
+      8.45,
+      9.32,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 8.75
+  },
+  "05001192022": {
+    "name": "RADHIKA GUPTA",
+    "semGPA": [
+      6.43,
+      8.09,
+      8.61,
+      8.18,
+      8.95,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.28
+  },
+  "05101192022": {
+    "name": "RICHA CHOUDHARY",
+    "semGPA": [
+      6.91,
+      8.91,
+      8.78,
+      8.45,
+      9.14,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.58
+  },
+  "05201192022": {
+    "name": "RIDHI JAGGI",
+    "semGPA": [
+      8.65,
+      9.36,
+      9.22,
+      9.45,
+      9.32,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.3
+  },
+  "05301192022": {
+    "name": "RISHIKA DHINGRA",
+    "semGPA": [
+      8.0,
+      9.09,
+      9.39,
+      8.64,
+      9.0,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.93
+  },
+  "05401192022": {
+    "name": "RITVIKA CHALAMALA",
+    "semGPA": [
+      8.7,
+      9.18,
+      9.22,
+      9.64,
+      9.5,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.31
+  },
+  "05501192022": {
+    "name": "RIYA MAHAJAN",
+    "semGPA": [
+      7.65,
+      8.55,
+      8.78,
+      8.45,
+      9.18,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.71
+  },
+  "05601192022": {
+    "name": "SAANVI GUPTA",
+    "semGPA": [
+      6.61,
+      7.91,
+      8.35,
+      8.27,
+      7.86,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 7.94
+  },
+  "05701192022": {
+    "name": "SALONI",
+    "semGPA": [
+      3.57,
+      4.45,
+      6.09,
+      5.73,
+      6.68,
+      7.36,
+      null,
+      null
+    ],
+    "cgpa": 5.65
+  },
+  "05801192022": {
+    "name": "SAVI GARG",
+    "semGPA": [
+      7.78,
+      8.45,
+      8.96,
+      9.27,
+      9.14,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.87
+  },
+  "05901192022": {
+    "name": "SHAILJA KUMARI",
+    "semGPA": [
+      3.22,
+      5.73,
+      7.13,
+      6.45,
+      7.0,
+      7.91,
+      null,
+      null
+    ],
+    "cgpa": 6.24
+  },
+  "06001192022": {
+    "name": "SHIVANI",
+    "semGPA": [
+      6.78,
+      6.27,
+      8.26,
+      8.27,
+      8.86,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 7.95
+  },
+  "06101192022": {
+    "name": "SHREYA NAIR",
+    "semGPA": [
+      8.87,
+      9.64,
+      9.22,
+      9.82,
+      9.68,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.51
+  },
+  "06201192022": {
+    "name": "SHREYA SINGH",
+    "semGPA": [
+      4.04,
+      7.82,
+      7.48,
+      6.73,
+      8.64,
+      7.91,
+      null,
+      null
+    ],
+    "cgpa": 7.1
+  },
+  "06301192022": {
+    "name": "SHREYA SISODIA",
+    "semGPA": [
+      9.17,
+      9.55,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 9.36
+  },
+  "06401192022": {
+    "name": "SIDDHI SHRIVASTWA",
+    "semGPA": [
+      7.7,
+      8.36,
+      7.91,
+      8.36,
+      8.68,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.33
+  },
+  "06501192022": {
+    "name": "SNEHA GOYAL",
+    "semGPA": [
+      7.83,
+      8.55,
+      8.7,
+      8.73,
+      8.41,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 8.67
+  },
+  "06601192022": {
+    "name": "SOMYA SAGAR",
+    "semGPA": [
+      6.26,
+      8.09,
+      8.7,
+      7.91,
+      8.36,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 7.96
+  },
+  "06701192022": {
+    "name": "SOUMYA GUPTA",
+    "semGPA": [
+      9.35,
+      10.0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 9.68
+  },
+  "06801192022": {
+    "name": "SOWMYA EMANI",
+    "semGPA": [
+      8.17,
+      9.09,
+      9.04,
+      8.55,
+      8.36,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.75
+  },
+  "06901192022": {
+    "name": "SURYANSHI",
+    "semGPA": [
+      7.83,
+      8.36,
+      8.09,
+      8.0,
+      8.45,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 8.26
+  },
+  "07001192022": {
+    "name": "SWASTI NITYA",
+    "semGPA": [
+      7.65,
+      9.09,
+      9.04,
+      9.18,
+      9.18,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 8.99
+  },
+  "07101192022": {
+    "name": "TANISHA",
+    "semGPA": [
+      7.65,
+      8.55,
+      8.87,
+      7.73,
+      8.32,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.35
+  },
+  "07201192022": {
+    "name": "TANISHA JAIN",
+    "semGPA": [
+      8.83,
+      9.18,
+      9.3,
+      9.0,
+      9.05,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.17
+  },
+  "07301192022": {
+    "name": "TANIYA",
+    "semGPA": [
+      4.57,
+      7.09,
+      7.83,
+      8.45,
+      8.32,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 7.47
+  },
+  "07401192022": {
+    "name": "TANYA",
+    "semGPA": [
+      6.96,
+      8.27,
+      8.78,
+      8.45,
+      9.14,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.45
+  },
+  "07501192022": {
+    "name": "TRIPTI JAISWAL",
+    "semGPA": [
+      7.13,
+      7.82,
+      8.87,
+      7.73,
+      8.59,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.17
+  },
+  "07601192022": {
+    "name": "UPASNA AGGARWAL",
+    "semGPA": [
+      8.35,
+      9.18,
+      9.39,
+      9.27,
+      9.14,
+      9.55,
+      null,
+      null
+    ],
+    "cgpa": 9.15
+  },
+  "07701192022": {
+    "name": "VANSHIKA RANA",
+    "semGPA": [
+      7.96,
+      9.27,
+      8.87,
+      8.64,
+      9.45,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.94
+  },
+  "00101032022": {
+    "name": "AANANDITAA",
+    "semGPA": [
+      9.0,
+      9.09,
+      8.7,
+      null,
+      9.32,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.19
+  },
+  "00201032022": {
+    "name": "AANYA SINGH DHAKA",
+    "semGPA": [
+      7.91,
+      7.55,
+      8.52,
+      null,
+      8.86,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 8.53
+  },
+  "00301032022": {
+    "name": "AARUSHI PANDEY",
+    "semGPA": [
+      7.82,
+      8.0,
+      7.39,
+      null,
+      7.73,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 7.88
+  },
+  "00401032022": {
+    "name": "AARZOO GUPTA",
+    "semGPA": [
+      8.36,
+      9.09,
+      8.17,
+      null,
+      8.82,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.78
+  },
+  "00501032022": {
+    "name": "AASTHA SAGAR",
+    "semGPA": [
+      6.27,
+      6.64,
+      6.78,
+      null,
+      8.36,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 7.3
+  },
+  "00601032022": {
+    "name": "AAYUSHI AACHARYA",
+    "semGPA": [
+      8.0,
+      8.45,
+      8.26,
+      null,
+      9.05,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 8.72
+  },
+  "00701032022": {
+    "name": "AFROZE KAUSAR",
+    "semGPA": [
+      9.0,
+      8.45,
+      8.52,
+      null,
+      8.64,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.81
+  },
+  "00801032022": {
+    "name": "AISHWARYA ANAND",
+    "semGPA": [
+      7.0,
+      6.45,
+      6.7,
+      null,
+      8.77,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 7.75
+  },
+  "00901032022": {
+    "name": "AMREEN NISAR",
+    "semGPA": [
+      6.45,
+      6.91,
+      6.09,
+      null,
+      8.36,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 7.34
+  },
+  "01001032022": {
+    "name": "ANANYA MAJUMDAR",
+    "semGPA": [
+      8.45,
+      9.27,
+      7.39,
+      null,
+      9.09,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 8.8
+  },
+  "01101032022": {
+    "name": "ANIKA MALHOTRA",
+    "semGPA": [
+      9.27,
+      8.73,
+      8.35,
+      null,
+      9.05,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.08
+  },
+  "01201032022": {
+    "name": "ANJALI",
+    "semGPA": [
+      8.45,
+      8.27,
+      7.13,
+      null,
+      8.36,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.37
+  },
+  "01301032022": {
+    "name": "ANSHIKA SINGH",
+    "semGPA": [
+      8.27,
+      7.36,
+      6.48,
+      null,
+      6.95,
+      8.09,
+      null,
+      null
+    ],
+    "cgpa": 7.43
+  },
+  "01401032022": {
+    "name": "ANUSHKA",
+    "semGPA": [
+      8.82,
+      9.64,
+      8.87,
+      null,
+      9.36,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.34
+  },
+  "01501032022": {
+    "name": "ANUSHKA",
+    "semGPA": [
+      6.09,
+      6.36,
+      5.83,
+      null,
+      7.23,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 6.92
+  },
+  "01601032022": {
+    "name": "ANUSHKA GUPTA",
+    "semGPA": [
+      9.18,
+      9.73,
+      9.13,
+      null,
+      9.55,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.48
+  },
+  "01701032022": {
+    "name": "AYUSHI BODWAL",
+    "semGPA": [
+      4.82,
+      7.36,
+      6.52,
+      null,
+      8.91,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 7.41
+  },
+  "01901032022": {
+    "name": "BHAWNA",
+    "semGPA": [
+      5.91,
+      6.64,
+      6.26,
+      null,
+      7.55,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 7.16
+  },
+  "02001032022": {
+    "name": "CHHAVI NAIN",
+    "semGPA": [
+      6.45,
+      8.09,
+      7.3,
+      null,
+      8.23,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 7.89
+  },
+  "02101032022": {
+    "name": "CHHAVI SINGH",
+    "semGPA": [
+      8.45,
+      8.45,
+      8.35,
+      null,
+      8.82,
+      9.73,
+      null,
+      null
+    ],
+    "cgpa": 8.76
+  },
+  "02201032022": {
+    "name": "DAMINI RATHORE",
+    "semGPA": [
+      7.09,
+      7.82,
+      6.7,
+      null,
+      8.64,
+      9.55,
+      null,
+      null
+    ],
+    "cgpa": 7.96
+  },
+  "02301032022": {
+    "name": "DARAKHSHAN ZEHRA",
+    "semGPA": [
+      7.0,
+      5.45,
+      6.78,
+      null,
+      8.36,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 7.41
+  },
+  "02401032022": {
+    "name": "DEEPIKA",
+    "semGPA": [
+      8.45,
+      9.18,
+      8.43,
+      null,
+      8.82,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 8.94
+  },
+  "02501032022": {
+    "name": "DISHA BARMOLA",
+    "semGPA": [
+      8.82,
+      9.36,
+      8.43,
+      null,
+      9.59,
+      9.91,
+      null,
+      null
+    ],
+    "cgpa": 9.22
+  },
+  "02601032022": {
+    "name": "GUNIKA GOYAL",
+    "semGPA": [
+      7.82,
+      8.91,
+      8.61,
+      null,
+      9.45,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 8.92
+  },
+  "02701032022": {
+    "name": "HIMANSHI",
+    "semGPA": [
+      8.27,
+      7.09,
+      8.0,
+      null,
+      9.41,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 8.52
+  },
+  "02801032022": {
+    "name": "HIMANSHI SUHAG",
+    "semGPA": [
+      8.64,
+      8.82,
+      7.83,
+      null,
+      8.82,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.71
+  },
+  "02901032022": {
+    "name": "HUMA SUHAIB",
+    "semGPA": [
+      7.36,
+      7.0,
+      4.57,
+      null,
+      7.32,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 6.98
+  },
+  "03001032022": {
+    "name": "ISHITA NARANG",
+    "semGPA": [
+      7.82,
+      8.55,
+      7.91,
+      null,
+      9.32,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 8.68
+  },
+  "03101032022": {
+    "name": "JAHNAVI",
+    "semGPA": [
+      6.64,
+      5.82,
+      6.96,
+      null,
+      8.73,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 7.36
+  },
+  "03201032022": {
+    "name": "JITISHA AZAD",
+    "semGPA": [
+      9.0,
+      9.55,
+      8.52,
+      null,
+      9.32,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.24
+  },
+  "03301032022": {
+    "name": "JIYA",
+    "semGPA": [
+      7.55,
+      7.82,
+      6.7,
+      null,
+      8.27,
+      9.18,
+      null,
+      null
+    ],
+    "cgpa": 7.9
+  },
+  "03401032022": {
+    "name": "KANISHKA",
+    "semGPA": [
+      4.82,
+      5.18,
+      5.91,
+      null,
+      7.86,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 6.55
+  },
+  "03501032022": {
+    "name": "KASHISH",
+    "semGPA": [
+      8.27,
+      8.55,
+      7.65,
+      null,
+      8.68,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.56
+  },
+  "03601032022": {
+    "name": "KHUSHBU SAHU",
+    "semGPA": [
+      6.82,
+      8.0,
+      6.96,
+      null,
+      7.95,
+      9.18,
+      null,
+      null
+    ],
+    "cgpa": 7.78
+  },
+  "03701032022": {
+    "name": "KHUSHI KHATRI",
+    "semGPA": [
+      3.18,
+      3.27,
+      3.83,
+      null,
+      5.32,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 4.83
+  },
+  "03801032022": {
+    "name": "KIRTI SAINI",
+    "semGPA": [
+      6.55,
+      4.73,
+      5.74,
+      null,
+      3.95,
+      6.82,
+      null,
+      null
+    ],
+    "cgpa": 5.56
+  },
+  "03901032022": {
+    "name": "KRITI SHELLY",
+    "semGPA": [
+      4.82,
+      4.18,
+      5.65,
+      null,
+      8.14,
+      8.0,
+      null,
+      null
+    ],
+    "cgpa": 6.16
+  },
+  "04001032022": {
+    "name": "LAKSHITA",
+    "semGPA": [
+      4.55,
+      7.82,
+      5.65,
+      null,
+      7.59,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 6.94
+  },
+  "04101032022": {
+    "name": "LAVANYA",
+    "semGPA": [
+      5.45,
+      5.73,
+      5.74,
+      null,
+      7.36,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 6.6
+  },
+  "04201032022": {
+    "name": "MAHAK TAYAL",
+    "semGPA": [
+      4.73,
+      5.18,
+      6.17,
+      null,
+      8.32,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 6.73
+  },
+  "04301032022": {
+    "name": "MANASI BHAGAT",
+    "semGPA": [
+      9.64,
+      9.73,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 9.69
+  },
+  "04401032022": {
+    "name": "MANVI VERMA",
+    "semGPA": [
+      4.91,
+      6.82,
+      6.43,
+      null,
+      8.41,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 7.24
+  },
+  "04501032022": {
+    "name": "MEHAK SHARMA",
+    "semGPA": [
+      8.91,
+      9.64,
+      8.52,
+      null,
+      9.41,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.22
+  },
+  "04601032022": {
+    "name": "NANDINI PANDEY",
+    "semGPA": [
+      9.45,
+      9.82,
+      8.7,
+      null,
+      8.73,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 9.19
+  },
+  "04701032022": {
+    "name": "NEHA",
+    "semGPA": [
+      8.91,
+      9.0,
+      8.7,
+      null,
+      8.5,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.95
+  },
+  "04801032022": {
+    "name": "POONAM",
+    "semGPA": [
+      8.36,
+      8.27,
+      7.22,
+      null,
+      8.59,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.29
+  },
+  "04901032022": {
+    "name": "POORVA AHUJA",
+    "semGPA": [
+      8.73,
+      9.18,
+      8.7,
+      null,
+      9.5,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.22
+  },
+  "05001032022": {
+    "name": "PRACHI TEWARI",
+    "semGPA": [
+      8.73,
+      9.0,
+      7.91,
+      null,
+      8.77,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 8.88
+  },
+  "05101032022": {
+    "name": "PRACHI YADAV",
+    "semGPA": [
+      1.27,
+      0.0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 0.64
+  },
+  "05201032022": {
+    "name": "Prisha Badwaik",
+    "semGPA": [
+      7.64,
+      8.0,
+      7.3,
+      null,
+      8.41,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.12
+  },
+  "05301032022": {
+    "name": "PRIYANKA SAHOO",
+    "semGPA": [
+      9.27,
+      10.0,
+      9.3,
+      null,
+      9.77,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.67
+  },
+  "05401032022": {
+    "name": "RAKSHA",
+    "semGPA": [
+      2.73,
+      4.0,
+      5.13,
+      null,
+      7.45,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 5.59
+  },
+  "05601032022": {
+    "name": "RIYA AGGARWAL",
+    "semGPA": [
+      8.55,
+      8.45,
+      8.96,
+      null,
+      9.59,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.11
+  },
+  "05701032022": {
+    "name": "SAUMYA",
+    "semGPA": [
+      4.64,
+      3.82,
+      4.35,
+      null,
+      6.91,
+      5.36,
+      null,
+      null
+    ],
+    "cgpa": 5.02
+  },
+  "05801032022": {
+    "name": "SHAKYA KUMARI",
+    "semGPA": [
+      4.55,
+      6.64,
+      6.78,
+      null,
+      9.05,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 7.37
+  },
+  "05901032022": {
+    "name": "SHALINI",
+    "semGPA": [
+      8.91,
+      9.55,
+      9.04,
+      null,
+      9.5,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.36
+  },
+  "06001032022": {
+    "name": "SHIVANGI",
+    "semGPA": [
+      9.45,
+      10.0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 9.72
+  },
+  "06101032022": {
+    "name": "SHIVANI BHARDWAJ",
+    "semGPA": [
+      9.36,
+      9.55,
+      9.04,
+      null,
+      9.23,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 9.31
+  },
+  "06201032022": {
+    "name": "SHREYA SINGH",
+    "semGPA": [
+      8.0,
+      9.27,
+      8.0,
+      null,
+      8.95,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 8.84
+  },
+  "06301032022": {
+    "name": "SHRIYA PANDA",
+    "semGPA": [
+      6.64,
+      7.45,
+      6.35,
+      null,
+      8.23,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 7.59
+  },
+  "06401032022": {
+    "name": "SHRUTI JHA",
+    "semGPA": [
+      7.64,
+      8.27,
+      7.13,
+      null,
+      8.23,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 8.13
+  },
+  "06501032022": {
+    "name": "SOMYA GARG",
+    "semGPA": [
+      9.82,
+      9.82,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 9.82
+  },
+  "06601032022": {
+    "name": "SONIA SINGH",
+    "semGPA": [
+      6.18,
+      7.27,
+      8.0,
+      null,
+      8.45,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 7.98
+  },
+  "06701032022": {
+    "name": "SOUMYA RANJAN",
+    "semGPA": [
+      3.82,
+      6.82,
+      6.43,
+      null,
+      8.18,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 6.76
+  },
+  "06801032022": {
+    "name": "SREEPARNA NASKAR",
+    "semGPA": [
+      6.55,
+      8.09,
+      6.87,
+      null,
+      8.36,
+      9.55,
+      null,
+      null
+    ],
+    "cgpa": 7.88
+  },
+  "06901032022": {
+    "name": "SUHANI GOEL",
+    "semGPA": [
+      8.91,
+      9.82,
+      9.04,
+      null,
+      9.23,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.36
+  },
+  "07001032022": {
+    "name": "SVECHA JINDAL",
+    "semGPA": [
+      8.0,
+      7.73,
+      7.48,
+      null,
+      8.05,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.11
+  },
+  "07101032022": {
+    "name": "TAMANNA KUKREJA",
+    "semGPA": [
+      8.18,
+      8.64,
+      8.26,
+      null,
+      9.05,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 8.79
+  },
+  "07201032022": {
+    "name": "TANVI KUMARI",
+    "semGPA": [
+      6.36,
+      7.64,
+      6.7,
+      null,
+      7.32,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 7.39
+  },
+  "07301032022": {
+    "name": "TINISHA MITTAL",
+    "semGPA": [
+      6.91,
+      8.64,
+      8.26,
+      null,
+      8.95,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.48
+  },
+  "07401032022": {
+    "name": "TRISHA TOMY",
+    "semGPA": [
+      8.64,
+      8.64,
+      9.48,
+      null,
+      9.41,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.23
+  },
+  "07501032022": {
+    "name": "URJA SAXENA",
+    "semGPA": [
+      8.18,
+      8.27,
+      7.65,
+      null,
+      8.18,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 8.22
+  },
+  "07601032022": {
+    "name": "VANSHIKA",
+    "semGPA": [
+      4.18,
+      6.55,
+      6.43,
+      null,
+      4.82,
+      0.0,
+      null,
+      null
+    ],
+    "cgpa": 4.4
+  },
+  "07701032022": {
+    "name": "VIDUSHI GIHARA",
+    "semGPA": [
+      6.73,
+      7.82,
+      7.65,
+      null,
+      9.5,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 8.34
+  },
+  "07801032022": {
+    "name": "VISHAKHA SINGH",
+    "semGPA": [
+      6.18,
+      7.27,
+      7.13,
+      null,
+      9.09,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 7.9
+  },
+  "00101182022": {
+    "name": "AAKANSHA",
+    "semGPA": [
+      7.48,
+      8.0,
+      7.91,
+      null,
+      9.36,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.44
+  },
+  "00201182022": {
+    "name": "AARUSHI SAHU",
+    "semGPA": [
+      8.7,
+      9.27,
+      9.3,
+      null,
+      9.45,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.27
+  },
+  "00301182022": {
+    "name": "AARUSHI SINGH",
+    "semGPA": [
+      8.0,
+      8.36,
+      8.3,
+      null,
+      8.5,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.43
+  },
+  "00401182022": {
+    "name": "AASTHA CHAUHAN",
+    "semGPA": [
+      6.61,
+      7.55,
+      7.65,
+      null,
+      8.5,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 7.75
+  },
+  "00501182022": {
+    "name": "ADHISHREE SINGH",
+    "semGPA": [
+      9.0,
+      9.27,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 9.13
+  },
+  "00601182022": {
+    "name": "ADITI PHARASI",
+    "semGPA": [
+      8.17,
+      9.27,
+      8.3,
+      null,
+      9.18,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 8.75
+  },
+  "00701182022": {
+    "name": "AISHWARYA CHANDRA",
+    "semGPA": [
+      8.52,
+      9.64,
+      8.65,
+      null,
+      9.77,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 9.12
+  },
+  "00801182022": {
+    "name": "AKSHITA GOEL",
+    "semGPA": [
+      8.7,
+      9.82,
+      9.48,
+      null,
+      9.86,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.54
+  },
+  "00901182022": {
+    "name": "AMBIKA RAI",
+    "semGPA": [
+      5.65,
+      3.91,
+      4.3,
+      null,
+      6.82,
+      7.27,
+      null,
+      null
+    ],
+    "cgpa": 5.59
+  },
+  "01001182022": {
+    "name": "ANAMIKA KUMARI",
+    "semGPA": [
+      8.17,
+      7.73,
+      8.52,
+      null,
+      8.59,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.49
+  },
+  "01101182022": {
+    "name": "ANAMIKA RAI",
+    "semGPA": [
+      8.3,
+      8.36,
+      8.74,
+      null,
+      8.59,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.58
+  },
+  "01201182022": {
+    "name": "ANANYA TANEJA",
+    "semGPA": [
+      7.35,
+      6.55,
+      7.61,
+      null,
+      8.68,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 7.93
+  },
+  "01301182022": {
+    "name": "ANJALI",
+    "semGPA": [
+      3.48,
+      1.55,
+      4.83,
+      null,
+      5.0,
+      5.0,
+      null,
+      null
+    ],
+    "cgpa": 3.97
+  },
+  "01401182022": {
+    "name": "ANJALI KUMARI",
+    "semGPA": [
+      8.0,
+      8.0,
+      7.26,
+      null,
+      8.09,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 8.0
+  },
+  "01501182022": {
+    "name": "ANSHIKA YADAV",
+    "semGPA": [
+      7.48,
+      8.64,
+      8.13,
+      null,
+      9.14,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.57
+  },
+  "01601182022": {
+    "name": "ANUSHKA GUPTA",
+    "semGPA": [
+      8.0,
+      8.91,
+      8.7,
+      null,
+      9.27,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 8.94
+  },
+  "01701182022": {
+    "name": "ANYA SHANDILYA",
+    "semGPA": [
+      8.0,
+      7.91,
+      7.65,
+      null,
+      9.05,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.38
+  },
+  "01801182022": {
+    "name": "ARUSHI GARG",
+    "semGPA": [
+      8.0,
+      8.27,
+      8.13,
+      null,
+      8.91,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.55
+  },
+  "01901182022": {
+    "name": "ARYA",
+    "semGPA": [
+      7.96,
+      7.0,
+      7.39,
+      null,
+      8.59,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.08
+  },
+  "02001182022": {
+    "name": "ASTHA PANDA",
+    "semGPA": [
+      8.17,
+      8.45,
+      8.22,
+      null,
+      9.14,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.61
+  },
+  "02101182022": {
+    "name": "ASTHA VIJAYWARGIYA",
+    "semGPA": [
+      8.52,
+      9.0,
+      8.7,
+      null,
+      9.27,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.95
+  },
+  "02201182022": {
+    "name": "AVNI GOYAL",
+    "semGPA": [
+      7.3,
+      8.09,
+      8.43,
+      null,
+      9.55,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.49
+  },
+  "02301182022": {
+    "name": "AVNI SINGH",
+    "semGPA": [
+      8.35,
+      8.73,
+      8.43,
+      null,
+      9.41,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.84
+  },
+  "02401182022": {
+    "name": "BHAMINI KATYAL",
+    "semGPA": [
+      8.52,
+      9.82,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 9.17
+  },
+  "02501182022": {
+    "name": "BHAWNA",
+    "semGPA": [
+      7.13,
+      6.82,
+      7.57,
+      null,
+      9.18,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.03
+  },
+  "02601182022": {
+    "name": "CHANCHAL",
+    "semGPA": [
+      5.09,
+      5.91,
+      5.83,
+      null,
+      6.95,
+      8.27,
+      null,
+      null
+    ],
+    "cgpa": 6.41
+  },
+  "02701182022": {
+    "name": "CHANCHAL",
+    "semGPA": [
+      5.57,
+      4.45,
+      6.74,
+      null,
+      7.05,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 6.45
+  },
+  "02801182022": {
+    "name": "CHANDA JHA",
+    "semGPA": [
+      7.48,
+      8.64,
+      7.65,
+      null,
+      8.55,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.28
+  },
+  "03001182022": {
+    "name": "DEVAKSHI",
+    "semGPA": [
+      5.09,
+      3.82,
+      5.22,
+      null,
+      4.91,
+      7.36,
+      null,
+      null
+    ],
+    "cgpa": 5.28
+  },
+  "03101182022": {
+    "name": "DIBYANSHA AGRAWAL",
+    "semGPA": [
+      7.7,
+      8.09,
+      7.65,
+      null,
+      8.68,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 8.17
+  },
+  "03201182022": {
+    "name": "DIVYA",
+    "semGPA": [
+      6.26,
+      5.18,
+      0.0,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 3.81
+  },
+  "03301182022": {
+    "name": "DIVYA JOSHI",
+    "semGPA": [
+      7.65,
+      8.36,
+      7.96,
+      null,
+      8.95,
+      9.18,
+      null,
+      null
+    ],
+    "cgpa": 8.42
+  },
+  "03401182022": {
+    "name": "DIVYA VERMA",
+    "semGPA": [
+      8.0,
+      7.45,
+      7.13,
+      null,
+      7.55,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 7.81
+  },
+  "03501182022": {
+    "name": "DRISHTI KATYAL",
+    "semGPA": [
+      8.52,
+      9.09,
+      9.04,
+      null,
+      9.27,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 9.07
+  },
+  "03601182022": {
+    "name": "ESHNA BHARGAVA",
+    "semGPA": [
+      7.61,
+      6.27,
+      7.91,
+      null,
+      9.05,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.06
+  },
+  "03701182022": {
+    "name": "GAYATRI DIXIT",
+    "semGPA": [
+      7.83,
+      8.36,
+      8.43,
+      null,
+      8.68,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.48
+  },
+  "03801182022": {
+    "name": "GYAPTI TRIVEDI",
+    "semGPA": [
+      7.7,
+      6.82,
+      7.83,
+      null,
+      7.73,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 7.73
+  },
+  "03901182022": {
+    "name": "HARJAS KAUR",
+    "semGPA": [
+      6.43,
+      8.73,
+      8.0,
+      null,
+      9.36,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 8.27
+  },
+  "04001182022": {
+    "name": "HASMITA",
+    "semGPA": [
+      3.87,
+      4.09,
+      4.83,
+      null,
+      6.95,
+      8.36,
+      null,
+      null
+    ],
+    "cgpa": 5.62
+  },
+  "04101182022": {
+    "name": "HIMANSHI KATARIA",
+    "semGPA": [
+      1.35,
+      3.09,
+      5.61,
+      null,
+      7.27,
+      6.73,
+      null,
+      null
+    ],
+    "cgpa": 4.81
+  },
+  "04201182022": {
+    "name": "HIMANSHI VERMA",
+    "semGPA": [
+      7.48,
+      6.36,
+      7.65,
+      null,
+      8.82,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 7.92
+  },
+  "04301182022": {
+    "name": "ILLA",
+    "semGPA": [
+      8.0,
+      7.45,
+      7.43,
+      null,
+      8.82,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 8.21
+  },
+  "04401182022": {
+    "name": "ISHANA SHAKYA",
+    "semGPA": [
+      8.52,
+      9.36,
+      8.48,
+      null,
+      8.86,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.84
+  },
+  "04501182022": {
+    "name": "ISHIKA PAL",
+    "semGPA": [
+      3.87,
+      6.09,
+      6.26,
+      null,
+      7.41,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 6.45
+  },
+  "04601182022": {
+    "name": "ISHITA GUPTA",
+    "semGPA": [
+      0.0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 0.0
+  },
+  "04701182022": {
+    "name": "JANVI",
+    "semGPA": [
+      7.48,
+      7.45,
+      7.87,
+      null,
+      8.82,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.21
+  },
+  "04801182022": {
+    "name": "JARPULA KALYANI",
+    "semGPA": [
+      7.3,
+      4.82,
+      7.35,
+      null,
+      8.86,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 7.54
+  },
+  "04901182022": {
+    "name": "JASGUN CHANDNANI",
+    "semGPA": [
+      8.83,
+      9.27,
+      8.7,
+      null,
+      8.95,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 9.04
+  },
+  "05001182022": {
+    "name": "JASREEN",
+    "semGPA": [
+      6.78,
+      7.18,
+      6.83,
+      null,
+      8.05,
+      8.09,
+      null,
+      null
+    ],
+    "cgpa": 7.39
+  },
+  "05101182022": {
+    "name": "JAYANTI",
+    "semGPA": [
+      2.91,
+      0.82,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 1.86
+  },
+  "05201182022": {
+    "name": "JHANVI MADAN",
+    "semGPA": [
+      7.65,
+      8.18,
+      8.09,
+      null,
+      8.59,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.36
+  },
+  "05301182022": {
+    "name": "JIYA KUMARI",
+    "semGPA": [
+      7.26,
+      7.36,
+      7.96,
+      null,
+      8.95,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.16
+  },
+  "05401182022": {
+    "name": "JIYA PAL",
+    "semGPA": [
+      5.13,
+      6.27,
+      6.43,
+      null,
+      7.27,
+      8.36,
+      null,
+      null
+    ],
+    "cgpa": 6.69
+  },
+  "05501182022": {
+    "name": "JYOTIKA JAICHAND",
+    "semGPA": [
+      8.17,
+      7.73,
+      8.04,
+      null,
+      8.41,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.32
+  },
+  "05601182022": {
+    "name": "KAHKASHA BANO",
+    "semGPA": [
+      6.65,
+      6.82,
+      6.7,
+      null,
+      8.95,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 7.57
+  },
+  "05701182022": {
+    "name": "KANAN SHEORAN",
+    "semGPA": [
+      8.13,
+      7.91,
+      8.43,
+      null,
+      8.5,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 8.47
+  },
+  "05801182022": {
+    "name": "KANISHKA",
+    "semGPA": [
+      5.43,
+      2.45,
+      6.78,
+      null,
+      7.14,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 6.11
+  },
+  "05901182022": {
+    "name": "KASHISH TIWARI",
+    "semGPA": [
+      5.61,
+      3.73,
+      5.96,
+      null,
+      7.77,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 6.4
+  },
+  "06001182022": {
+    "name": "KAVYA TAITRIYA",
+    "semGPA": [
+      6.26,
+      5.09,
+      6.22,
+      null,
+      8.45,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 6.91
+  },
+  "06101182022": {
+    "name": "KHUSHI JANGID",
+    "semGPA": [
+      8.52,
+      9.36,
+      8.3,
+      null,
+      9.36,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 8.84
+  },
+  "06201182022": {
+    "name": "KHUSHI TATWAL",
+    "semGPA": [
+      7.3,
+      7.09,
+      6.17,
+      null,
+      8.27,
+      8.09,
+      null,
+      null
+    ],
+    "cgpa": 7.38
+  },
+  "06301182022": {
+    "name": "KHUSHIE",
+    "semGPA": [
+      4.96,
+      5.55,
+      5.0,
+      null,
+      6.64,
+      6.45,
+      null,
+      null
+    ],
+    "cgpa": 5.72
+  },
+  "06401182022": {
+    "name": "KIMI RANDHAWA",
+    "semGPA": [
+      6.96,
+      7.18,
+      6.87,
+      null,
+      8.23,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 7.61
+  },
+  "06501182022": {
+    "name": "KOMAL",
+    "semGPA": [
+      5.61,
+      6.64,
+      5.3,
+      null,
+      8.32,
+      8.36,
+      null,
+      null
+    ],
+    "cgpa": 6.85
+  },
+  "06601182022": {
+    "name": "KUMKUM MEENA",
+    "semGPA": [
+      7.48,
+      6.64,
+      7.17,
+      null,
+      8.23,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 7.76
+  },
+  "06701182022": {
+    "name": "KUSUM KUMARI",
+    "semGPA": [
+      5.61,
+      4.64,
+      6.7,
+      null,
+      8.36,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 6.88
+  },
+  "06801182022": {
+    "name": "LAVANYA SHREE",
+    "semGPA": [
+      7.13,
+      6.09,
+      6.78,
+      null,
+      8.5,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 7.48
+  },
+  "06901182022": {
+    "name": "LIVYA JAJORIA",
+    "semGPA": [
+      4.26,
+      2.36,
+      2.3,
+      null,
+      6.23,
+      6.45,
+      null,
+      null
+    ],
+    "cgpa": 4.32
+  },
+  "07101182022": {
+    "name": "MAHITA BOYINA",
+    "semGPA": [
+      8.83,
+      8.73,
+      9.3,
+      null,
+      9.41,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 9.14
+  },
+  "07201182022": {
+    "name": "MANASVI NANDAL",
+    "semGPA": [
+      0.0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 0.0
+  },
+  "07301182022": {
+    "name": "MANSI KUSHWAHA",
+    "semGPA": [
+      7.48,
+      5.73,
+      7.87,
+      null,
+      8.95,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 7.86
+  },
+  "07401182022": {
+    "name": "MANSI SACHDEVA",
+    "semGPA": [
+      8.35,
+      8.64,
+      8.74,
+      null,
+      8.86,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.85
+  },
+  "07501182022": {
+    "name": "MEDHA ARORA",
+    "semGPA": [
+      7.13,
+      7.27,
+      8.52,
+      null,
+      8.73,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 8.02
+  },
+  "07601182022": {
+    "name": "MONIKA",
+    "semGPA": [
+      6.96,
+      6.73,
+      6.96,
+      null,
+      7.45,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 7.42
+  },
+  "07701182022": {
+    "name": "MUSKAN GARG",
+    "semGPA": [
+      7.48,
+      7.18,
+      6.3,
+      null,
+      9.14,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 7.77
+  },
+  "07801182022": {
+    "name": "NAINCY YADAV",
+    "semGPA": [
+      8.17,
+      7.55,
+      8.3,
+      null,
+      8.68,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 8.5
+  },
+  "07901182022": {
+    "name": "NANDINI SAINI",
+    "semGPA": [
+      5.91,
+      7.09,
+      7.43,
+      null,
+      4.18,
+      7.27,
+      null,
+      null
+    ],
+    "cgpa": 6.38
+  },
+  "08101182022": {
+    "name": "NAVYA SAINI",
+    "semGPA": [
+      8.48,
+      8.45,
+      8.65,
+      null,
+      9.27,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.9
+  },
+  "08201182022": {
+    "name": "NISHI VISHWAKARMA",
+    "semGPA": [
+      4.61,
+      6.45,
+      6.65,
+      null,
+      8.23,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 6.92
+  },
+  "08301182022": {
+    "name": "NISHTHA DHARIWAL",
+    "semGPA": [
+      4.57,
+      6.45,
+      5.7,
+      null,
+      7.45,
+      8.09,
+      null,
+      null
+    ],
+    "cgpa": 6.45
+  },
+  "08401182022": {
+    "name": "NISHU KUMARI",
+    "semGPA": [
+      5.26,
+      5.18,
+      5.83,
+      null,
+      7.86,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 6.57
+  },
+  "08501182022": {
+    "name": "NISHU PANDEY",
+    "semGPA": [
+      8.87,
+      8.55,
+      8.13,
+      null,
+      8.82,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.8
+  },
+  "08601182022": {
+    "name": "NITYA AGRAWAL",
+    "semGPA": [
+      7.3,
+      8.45,
+      8.91,
+      null,
+      9.36,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 8.77
+  },
+  "08701182022": {
+    "name": "NITYA SINGHAL",
+    "semGPA": [
+      8.52,
+      9.64,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 9.08
+  },
+  "08801182022": {
+    "name": "PRAGYA KHULLAR",
+    "semGPA": [
+      7.35,
+      8.91,
+      8.13,
+      null,
+      8.82,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.46
+  },
+  "08901182022": {
+    "name": "PREET KANAN",
+    "semGPA": [
+      7.87,
+      9.09,
+      8.57,
+      null,
+      8.86,
+      9.18,
+      null,
+      null
+    ],
+    "cgpa": 8.71
+  },
+  "09001182022": {
+    "name": "PRERNA JHA",
+    "semGPA": [
+      8.7,
+      9.18,
+      8.09,
+      null,
+      8.41,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.66
+  },
+  "09101182022": {
+    "name": "PRISHA SHARMA",
+    "semGPA": [
+      7.17,
+      8.09,
+      8.13,
+      null,
+      8.86,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.38
+  },
+  "09201182022": {
+    "name": "PRIYA JAIMAL",
+    "semGPA": [
+      4.83,
+      6.64,
+      5.87,
+      null,
+      8.95,
+      9.18,
+      null,
+      null
+    ],
+    "cgpa": 7.09
+  },
+  "09301182022": {
+    "name": "PRIYA PAHWA",
+    "semGPA": [
+      8.7,
+      9.18,
+      8.83,
+      null,
+      9.55,
+      9.18,
+      null,
+      null
+    ],
+    "cgpa": 9.09
+  },
+  "09401182022": {
+    "name": "PRIYA SACHDEV",
+    "semGPA": [
+      8.7,
+      9.27,
+      9.0,
+      null,
+      9.45,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.28
+  },
+  "09501182022": {
+    "name": "PRIYAL BHARTI",
+    "semGPA": [
+      5.39,
+      6.55,
+      7.0,
+      null,
+      8.18,
+      8.27,
+      null,
+      null
+    ],
+    "cgpa": 7.08
+  },
+  "09601182022": {
+    "name": "PRIYANKA SINGHAL",
+    "semGPA": [
+      6.43,
+      6.45,
+      7.09,
+      null,
+      8.77,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 7.57
+  },
+  "09701182022": {
+    "name": "PURVA GANDHI",
+    "semGPA": [
+      8.35,
+      9.18,
+      8.83,
+      null,
+      9.32,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 8.83
+  },
+  "09801182022": {
+    "name": "RIDDHIKA SAINI",
+    "semGPA": [
+      5.96,
+      6.36,
+      6.43,
+      null,
+      8.86,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 7.3
+  },
+  "09901182022": {
+    "name": "RITU GAUR",
+    "semGPA": [
+      6.78,
+      8.18,
+      7.87,
+      null,
+      8.5,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 7.96
+  },
+  "10001182022": {
+    "name": "RIYA",
+    "semGPA": [
+      4.74,
+      6.45,
+      5.7,
+      null,
+      8.23,
+      8.27,
+      null,
+      null
+    ],
+    "cgpa": 6.68
+  },
+  "10101182022": {
+    "name": "SAIE PRAKHAR PAWAR",
+    "semGPA": [
+      8.48,
+      8.64,
+      7.87,
+      null,
+      8.77,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.57
+  },
+  "10201182022": {
+    "name": "SAKSHI",
+    "semGPA": [
+      6.43,
+      7.18,
+      6.48,
+      null,
+      7.86,
+      8.09,
+      null,
+      null
+    ],
+    "cgpa": 7.21
+  },
+  "10301182022": {
+    "name": "SAKSHI GUPTA",
+    "semGPA": [
+      8.52,
+      9.27,
+      8.65,
+      null,
+      9.64,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 8.98
+  },
+  "10401182022": {
+    "name": "SAKSHI PRIYA",
+    "semGPA": [
+      7.13,
+      7.91,
+      6.83,
+      null,
+      8.77,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 7.84
+  },
+  "10501182022": {
+    "name": "SAKSHI RAJ",
+    "semGPA": [
+      7.83,
+      8.73,
+      8.22,
+      null,
+      8.77,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.53
+  },
+  "10601182022": {
+    "name": "SAKSHI SAHU",
+    "semGPA": [
+      8.3,
+      9.09,
+      8.83,
+      null,
+      9.23,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.94
+  },
+  "10701182022": {
+    "name": "SAKSHI SINGH",
+    "semGPA": [
+      7.65,
+      8.91,
+      8.65,
+      null,
+      9.05,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.65
+  },
+  "10801182022": {
+    "name": "SAKSHI SINGH",
+    "semGPA": [
+      8.7,
+      8.64,
+      7.96,
+      null,
+      9.05,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.65
+  },
+  "10901182022": {
+    "name": "SANIA",
+    "semGPA": [
+      6.09,
+      7.27,
+      6.74,
+      null,
+      8.64,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 7.57
+  },
+  "11001182022": {
+    "name": "SHAIVI GOEL",
+    "semGPA": [
+      7.83,
+      8.82,
+      8.13,
+      null,
+      8.59,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 8.36
+  },
+  "11101182022": {
+    "name": "SHATAVISHA SAHA",
+    "semGPA": [
+      7.48,
+      7.73,
+      6.78,
+      null,
+      8.0,
+      7.91,
+      null,
+      null
+    ],
+    "cgpa": 7.58
+  },
+  "11201182022": {
+    "name": "SHEBA ALAM",
+    "semGPA": [
+      7.83,
+      8.64,
+      8.48,
+      null,
+      9.18,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.75
+  },
+  "11301182022": {
+    "name": "SHEETAL",
+    "semGPA": [
+      5.09,
+      6.55,
+      6.48,
+      null,
+      6.82,
+      8.09,
+      null,
+      null
+    ],
+    "cgpa": 6.61
+  },
+  "11401182022": {
+    "name": "SHEFALI KAUSHAL",
+    "semGPA": [
+      8.0,
+      8.45,
+      6.91,
+      null,
+      8.95,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 8.19
+  },
+  "11501182022": {
+    "name": "SHIKHA BHARDWAJ",
+    "semGPA": [
+      7.35,
+      8.18,
+      7.87,
+      null,
+      8.55,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 8.12
+  },
+  "11601182022": {
+    "name": "SHIVANSHI MISHRA",
+    "semGPA": [
+      9.04,
+      9.64,
+      9.04,
+      null,
+      10.0,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.54
+  },
+  "11701182022": {
+    "name": "SHRESHTHA JHA",
+    "semGPA": [
+      7.35,
+      9.0,
+      7.61,
+      null,
+      9.09,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.39
+  },
+  "11801182022": {
+    "name": "SHREYA GUPTA",
+    "semGPA": [
+      8.87,
+      9.82,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 9.34
+  },
+  "11901182022": {
+    "name": "SHREYA RUHELA",
+    "semGPA": [
+      7.48,
+      8.64,
+      8.48,
+      null,
+      9.05,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.53
+  },
+  "12001182022": {
+    "name": "SHRISHTI SHARMA",
+    "semGPA": [
+      7.13,
+      7.91,
+      8.04,
+      null,
+      8.27,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 8.03
+  },
+  "12101182022": {
+    "name": "SHRUTI",
+    "semGPA": [
+      6.26,
+      6.82,
+      6.74,
+      null,
+      8.14,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 7.3
+  },
+  "12201182022": {
+    "name": "SHRUTI",
+    "semGPA": [
+      4.74,
+      5.18,
+      6.13,
+      null,
+      8.05,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 6.67
+  },
+  "12301182022": {
+    "name": "SHRUTI CHOTANI",
+    "semGPA": [
+      8.7,
+      9.36,
+      9.35,
+      null,
+      9.77,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.4
+  },
+  "12401182022": {
+    "name": "SHRUTI GOYAL",
+    "semGPA": [
+      9.22,
+      9.73,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 9.48
+  },
+  "12501182022": {
+    "name": "SHRUTI SHRESTHA",
+    "semGPA": [
+      0.0,
+      3.0,
+      1.91,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 1.64
+  },
+  "12601182022": {
+    "name": "SHUBHA PRASAD",
+    "semGPA": [
+      8.04,
+      9.18,
+      8.13,
+      null,
+      8.77,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.61
+  },
+  "12701182022": {
+    "name": "SHWETA SHARMA",
+    "semGPA": [
+      7.3,
+      8.82,
+      7.65,
+      null,
+      9.23,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.4
+  },
+  "12801182022": {
+    "name": "SIDDHIKA SAINI",
+    "semGPA": [
+      5.78,
+      6.18,
+      6.39,
+      null,
+      7.64,
+      8.27,
+      null,
+      null
+    ],
+    "cgpa": 6.85
+  },
+  "12901182022": {
+    "name": "SIMER KHURMI",
+    "semGPA": [
+      8.35,
+      9.0,
+      7.78,
+      null,
+      9.41,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 8.87
+  },
+  "13001182022": {
+    "name": "SNEHA",
+    "semGPA": [
+      9.04,
+      9.91,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 9.47
+  },
+  "13101182022": {
+    "name": "SNEHA",
+    "semGPA": [
+      3.87,
+      4.82,
+      0.43,
+      null,
+      4.73,
+      7.36,
+      null,
+      null
+    ],
+    "cgpa": 4.24
+  },
+  "13201182022": {
+    "name": "SNEHA",
+    "semGPA": [
+      6.3,
+      6.64,
+      6.13,
+      null,
+      8.68,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 7.33
+  },
+  "13301182022": {
+    "name": "SNEHA GAUTAM",
+    "semGPA": [
+      5.26,
+      5.18,
+      5.35,
+      null,
+      7.68,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 6.49
+  },
+  "13401182022": {
+    "name": "SNEHA SAH",
+    "semGPA": [
+      3.26,
+      4.27,
+      4.83,
+      null,
+      7.68,
+      8.36,
+      null,
+      null
+    ],
+    "cgpa": 5.68
+  },
+  "13501182022": {
+    "name": "SNIGDHA SINHA",
+    "semGPA": [
+      5.7,
+      6.45,
+      6.39,
+      null,
+      7.64,
+      7.27,
+      null,
+      null
+    ],
+    "cgpa": 6.69
+  },
+  "13601182022": {
+    "name": "SOMYA ARORA",
+    "semGPA": [
+      0.0,
+      2.45,
+      4.43,
+      null,
+      1.36,
+      1.45,
+      null,
+      null
+    ],
+    "cgpa": 1.94
+  },
+  "13701182022": {
+    "name": "SONAM",
+    "semGPA": [
+      8.17,
+      9.18,
+      8.91,
+      null,
+      9.14,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.97
+  },
+  "13801182022": {
+    "name": "SONIYA VERMA",
+    "semGPA": [
+      7.35,
+      5.55,
+      5.43,
+      null,
+      8.59,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 7.07
+  },
+  "13901182022": {
+    "name": "SRIPRIYA AGARWAL",
+    "semGPA": [
+      7.83,
+      9.0,
+      8.48,
+      null,
+      8.95,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.71
+  },
+  "14001182022": {
+    "name": "SRISHNEET KAUR",
+    "semGPA": [
+      8.7,
+      9.82,
+      8.91,
+      null,
+      9.68,
+      9.18,
+      null,
+      null
+    ],
+    "cgpa": 9.26
+  },
+  "14101182022": {
+    "name": "SUNIDHI",
+    "semGPA": [
+      8.35,
+      9.09,
+      8.39,
+      null,
+      8.95,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 8.65
+  },
+  "14201182022": {
+    "name": "SUNISHKA",
+    "semGPA": [
+      6.61,
+      7.09,
+      6.91,
+      null,
+      7.68,
+      8.09,
+      null,
+      null
+    ],
+    "cgpa": 7.28
+  },
+  "14301182022": {
+    "name": "SWATI MISHRA",
+    "semGPA": [
+      6.3,
+      7.55,
+      6.83,
+      null,
+      8.5,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 7.65
+  },
+  "14401182022": {
+    "name": "TANUSHREE",
+    "semGPA": [
+      5.83,
+      4.82,
+      5.09,
+      null,
+      8.32,
+      6.82,
+      null,
+      null
+    ],
+    "cgpa": 6.18
+  },
+  "14501182022": {
+    "name": "TANVI",
+    "semGPA": [
+      6.43,
+      8.27,
+      6.61,
+      null,
+      8.59,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 7.78
+  },
+  "14601182022": {
+    "name": "TANYA SHARMA",
+    "semGPA": [
+      7.48,
+      8.36,
+      7.78,
+      null,
+      8.95,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 8.28
+  },
+  "14701182022": {
+    "name": "TAPASHYA",
+    "semGPA": [
+      5.39,
+      5.36,
+      6.22,
+      null,
+      0.41,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 5.19
+  },
+  "14801182022": {
+    "name": "TAVLEEN KAUR",
+    "semGPA": [
+      9.22,
+      9.36,
+      9.35,
+      null,
+      9.55,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.42
+  },
+  "14901182022": {
+    "name": "VANSHIKA SHARMA na",
+    "semGPA": [
+      4.91,
+      5.55,
+      5.78,
+      null,
+      6.64,
+      8.27,
+      null,
+      null
+    ],
+    "cgpa": 6.23
+  },
+  "15001182022": {
+    "name": "VIDUSHI AGARWAL",
+    "semGPA": [
+      9.04,
+      9.55,
+      9.26,
+      null,
+      9.59,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.42
+  },
+  "15101182022": {
+    "name": "VIDUSHI ARORA",
+    "semGPA": [
+      8.17,
+      8.64,
+      7.78,
+      null,
+      8.73,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.59
+  },
+  "15201182022": {
+    "name": "YASHIKA MANN",
+    "semGPA": [
+      7.3,
+      8.27,
+      8.22,
+      null,
+      9.05,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.35
+  },
+  "00201012022": {
+    "name": "AADYA KUMAR",
+    "semGPA": [
+      8.36,
+      9.27,
+      9.39,
+      null,
+      8.95,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 9.08
+  },
+  "00301012022": {
+    "name": "AAKRITI KUMARI",
+    "semGPA": [
+      8.09,
+      9.0,
+      8.65,
+      null,
+      8.82,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.8
+  },
+  "00401012022": {
+    "name": "AARADHANA SINGH",
+    "semGPA": [
+      4.73,
+      4.82,
+      4.26,
+      null,
+      6.0,
+      5.36,
+      null,
+      null
+    ],
+    "cgpa": 5.03
+  },
+  "00501012022": {
+    "name": "AASTHA GAUTAM",
+    "semGPA": [
+      6.27,
+      7.91,
+      6.96,
+      null,
+      7.86,
+      7.64,
+      null,
+      null
+    ],
+    "cgpa": 7.33
+  },
+  "00601012022": {
+    "name": "AAYUSHI SINHA",
+    "semGPA": [
+      8.55,
+      9.0,
+      8.52,
+      null,
+      9.23,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.84
+  },
+  "00701012022": {
+    "name": "ADITI",
+    "semGPA": [
+      8.0,
+      8.73,
+      8.13,
+      null,
+      8.41,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.44
+  },
+  "00801012022": {
+    "name": "ADITI",
+    "semGPA": [
+      6.27,
+      7.45,
+      7.22,
+      null,
+      8.27,
+      8.09,
+      null,
+      null
+    ],
+    "cgpa": 7.46
+  },
+  "00901012022": {
+    "name": "ADITI BAGHEL",
+    "semGPA": [
+      4.64,
+      5.36,
+      5.35,
+      null,
+      6.09,
+      5.64,
+      null,
+      null
+    ],
+    "cgpa": 5.42
+  },
+  "01001012022": {
+    "name": "ADITI CHHIKARA",
+    "semGPA": [
+      3.09,
+      6.64,
+      6.48,
+      null,
+      7.32,
+      7.09,
+      null,
+      null
+    ],
+    "cgpa": 6.12
+  },
+  "01101012022": {
+    "name": "ADITI GOEL",
+    "semGPA": [
+      6.64,
+      7.82,
+      7.35,
+      null,
+      7.68,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 7.72
+  },
+  "01201012022": {
+    "name": "ADITI KASHYAP",
+    "semGPA": [
+      4.55,
+      5.55,
+      5.96,
+      null,
+      7.05,
+      7.18,
+      null,
+      null
+    ],
+    "cgpa": 6.06
+  },
+  "01301012022": {
+    "name": "ADITI SHARMA",
+    "semGPA": [
+      7.0,
+      7.36,
+      7.52,
+      null,
+      9.18,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.03
+  },
+  "01401012022": {
+    "name": "ADITI TRIPATHI",
+    "semGPA": [
+      9.82,
+      9.55,
+      8.87,
+      null,
+      9.18,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 9.3
+  },
+  "01501012022": {
+    "name": "AISHWARYA",
+    "semGPA": [
+      7.91,
+      7.45,
+      7.13,
+      null,
+      7.23,
+      7.82,
+      null,
+      null
+    ],
+    "cgpa": 7.51
+  },
+  "01601012022": {
+    "name": "AKANKSHA",
+    "semGPA": [
+      7.91,
+      8.82,
+      7.78,
+      null,
+      8.32,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.38
+  },
+  "01701012022": {
+    "name": "AKANKSHA AGRAHARI",
+    "semGPA": [
+      9.36,
+      8.64,
+      9.13,
+      null,
+      9.18,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.19
+  },
+  "01801012022": {
+    "name": "AKANKSHA BATHLA",
+    "semGPA": [
+      5.45,
+      7.64,
+      6.3,
+      null,
+      7.86,
+      7.45,
+      null,
+      null
+    ],
+    "cgpa": 6.94
+  },
+  "01901012022": {
+    "name": "AKANKSHA KUMARI",
+    "semGPA": [
+      6.36,
+      7.0,
+      6.83,
+      null,
+      7.14,
+      7.64,
+      null,
+      null
+    ],
+    "cgpa": 6.99
+  },
+  "02001012022": {
+    "name": "AKANSHA CHAURASIA",
+    "semGPA": [
+      6.82,
+      7.36,
+      8.22,
+      null,
+      8.91,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 8.01
+  },
+  "02101012022": {
+    "name": "AKANSHA YADAV",
+    "semGPA": [
+      2.45,
+      2.36,
+      2.3,
+      null,
+      4.95,
+      4.09,
+      null,
+      null
+    ],
+    "cgpa": 3.23
+  },
+  "02201012022": {
+    "name": "AKSA",
+    "semGPA": [
+      8.18,
+      8.45,
+      8.48,
+      null,
+      8.59,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 8.43
+  },
+  "02301012022": {
+    "name": "ALWEENA FATIMA",
+    "semGPA": [
+      7.45,
+      7.73,
+      7.78,
+      null,
+      8.68,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.15
+  },
+  "02401012022": {
+    "name": "AMISHI KUMAR",
+    "semGPA": [
+      6.91,
+      7.82,
+      9.04,
+      null,
+      9.27,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.39
+  },
+  "02501012022": {
+    "name": "AMRIT JANJUHA",
+    "semGPA": [
+      8.09,
+      7.45,
+      8.48,
+      null,
+      8.95,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.41
+  },
+  "02601012022": {
+    "name": "ANANYA ARORA",
+    "semGPA": [
+      9.36,
+      9.36,
+      9.43,
+      null,
+      9.27,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 9.34
+  },
+  "02701012022": {
+    "name": "ANANYA KUMAR",
+    "semGPA": [
+      7.09,
+      7.64,
+      7.35,
+      null,
+      7.68,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 7.64
+  },
+  "02801012022": {
+    "name": "ANAVI SRIVASTAVA",
+    "semGPA": [
+      9.27,
+      9.45,
+      9.43,
+      null,
+      9.68,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.49
+  },
+  "02901012022": {
+    "name": "ANJALI",
+    "semGPA": [
+      8.91,
+      8.91,
+      8.39,
+      null,
+      8.77,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.78
+  },
+  "03001012022": {
+    "name": "ANJALI",
+    "semGPA": [
+      6.0,
+      6.27,
+      5.39,
+      null,
+      6.86,
+      6.27,
+      null,
+      null
+    ],
+    "cgpa": 6.16
+  },
+  "03101012022": {
+    "name": "ANJU",
+    "semGPA": [
+      6.55,
+      7.91,
+      7.3,
+      null,
+      7.64,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 7.61
+  },
+  "03201012022": {
+    "name": "ANOMA SINGH",
+    "semGPA": [
+      5.27,
+      6.91,
+      7.0,
+      null,
+      7.23,
+      7.91,
+      null,
+      null
+    ],
+    "cgpa": 6.86
+  },
+  "03301012022": {
+    "name": "ANSHIKA AGARWAL",
+    "semGPA": [
+      8.45,
+      8.91,
+      9.04,
+      null,
+      9.23,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.98
+  },
+  "03401012022": {
+    "name": "ANSHIKA AGGARWAL",
+    "semGPA": [
+      7.36,
+      8.09,
+      8.52,
+      null,
+      8.55,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 8.25
+  },
+  "03501012022": {
+    "name": "ANSHIKA ARORA",
+    "semGPA": [
+      9.0,
+      8.55,
+      8.87,
+      null,
+      9.09,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.96
+  },
+  "03601012022": {
+    "name": "ANSHIKA SINGH",
+    "semGPA": [
+      6.64,
+      7.36,
+      7.96,
+      null,
+      8.14,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 7.75
+  },
+  "03701012022": {
+    "name": "ANUSHREE GAUTAM",
+    "semGPA": [
+      2.36,
+      1.73,
+      2.43,
+      null,
+      5.41,
+      5.82,
+      null,
+      null
+    ],
+    "cgpa": 3.55
+  },
+  "03801012022": {
+    "name": "ANVI KANSAL",
+    "semGPA": [
+      8.73,
+      9.18,
+      8.78,
+      null,
+      8.23,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.87
+  },
+  "03901012022": {
+    "name": "ANWITA SINHA",
+    "semGPA": [
+      4.73,
+      7.91,
+      7.39,
+      null,
+      8.0,
+      8.27,
+      null,
+      null
+    ],
+    "cgpa": 7.26
+  },
+  "04001012022": {
+    "name": "APEKSHA RAJPUT",
+    "semGPA": [
+      6.09,
+      7.45,
+      8.13,
+      null,
+      7.36,
+      7.91,
+      null,
+      null
+    ],
+    "cgpa": 7.39
+  },
+  "04101012022": {
+    "name": "ARCHITA",
+    "semGPA": [
+      7.09,
+      8.73,
+      8.04,
+      null,
+      7.64,
+      7.0,
+      null,
+      null
+    ],
+    "cgpa": 7.7
+  },
+  "04201012022": {
+    "name": "ARCHITA GUPTA",
+    "semGPA": [
+      8.36,
+      9.0,
+      8.83,
+      null,
+      9.05,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.85
+  },
+  "04301012022": {
+    "name": "ARSHITA",
+    "semGPA": [
+      8.0,
+      8.0,
+      8.48,
+      null,
+      8.64,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.48
+  },
+  "04401012022": {
+    "name": "ARYA SINGH",
+    "semGPA": [
+      6.82,
+      8.27,
+      8.35,
+      null,
+      8.0,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 8.05
+  },
+  "04601012022": {
+    "name": "ASHNA SINGH",
+    "semGPA": [
+      9.27,
+      9.27,
+      8.83,
+      null,
+      8.5,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 9.06
+  },
+  "04701012022": {
+    "name": "ASTUTI MISHRA",
+    "semGPA": [
+      9.09,
+      8.73,
+      8.57,
+      null,
+      8.55,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 8.68
+  },
+  "04801012022": {
+    "name": "AVANTI VERMA",
+    "semGPA": [
+      9.27,
+      9.18,
+      9.0,
+      null,
+      9.27,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 9.11
+  },
+  "04901012022": {
+    "name": "AVIKA GUPTA",
+    "semGPA": [
+      8.09,
+      7.73,
+      7.7,
+      null,
+      8.0,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 8.01
+  },
+  "05001012022": {
+    "name": "AYUSHI GUPTA",
+    "semGPA": [
+      7.55,
+      7.36,
+      7.7,
+      null,
+      7.09,
+      8.09,
+      null,
+      null
+    ],
+    "cgpa": 7.56
+  },
+  "05101012022": {
+    "name": "BHAVYA GUPTA",
+    "semGPA": [
+      7.91,
+      8.82,
+      8.17,
+      null,
+      7.5,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.3
+  },
+  "05201012022": {
+    "name": "BHUVI SINGH",
+    "semGPA": [
+      8.73,
+      8.64,
+      8.7,
+      null,
+      8.5,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.73
+  },
+  "05301012022": {
+    "name": "CHANCHAL",
+    "semGPA": [
+      6.18,
+      6.27,
+      7.43,
+      null,
+      6.59,
+      7.36,
+      null,
+      null
+    ],
+    "cgpa": 6.77
+  },
+  "05401012022": {
+    "name": "CHANCHAL VERMA",
+    "semGPA": [
+      7.09,
+      6.82,
+      6.83,
+      null,
+      6.82,
+      7.64,
+      null,
+      null
+    ],
+    "cgpa": 7.04
+  },
+  "05501012022": {
+    "name": "CHANDA KUMARI",
+    "semGPA": [
+      8.0,
+      8.18,
+      7.22,
+      null,
+      8.09,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 8.03
+  },
+  "05601012022": {
+    "name": "CHARVI GUPTA",
+    "semGPA": [
+      7.55,
+      8.09,
+      8.3,
+      null,
+      7.86,
+      8.0,
+      null,
+      null
+    ],
+    "cgpa": 7.96
+  },
+  "05701012022": {
+    "name": "DEEPA",
+    "semGPA": [
+      7.18,
+      6.82,
+      5.57,
+      null,
+      6.23,
+      7.27,
+      null,
+      null
+    ],
+    "cgpa": 6.61
+  },
+  "05801012022": {
+    "name": "DEEPSHIKHA",
+    "semGPA": [
+      8.27,
+      7.73,
+      7.74,
+      null,
+      7.36,
+      5.82,
+      null,
+      null
+    ],
+    "cgpa": 7.38
+  },
+  "05901012022": {
+    "name": "DEEPTI GUPTA",
+    "semGPA": [
+      5.91,
+      6.82,
+      7.09,
+      null,
+      8.82,
+      7.82,
+      null,
+      null
+    ],
+    "cgpa": 7.29
+  },
+  "06001012022": {
+    "name": "DEVANSHI RAJORA",
+    "semGPA": [
+      6.55,
+      7.18,
+      7.26,
+      null,
+      7.27,
+      7.27,
+      null,
+      null
+    ],
+    "cgpa": 7.11
+  },
+  "06101012022": {
+    "name": "DIKSHA",
+    "semGPA": [
+      7.27,
+      7.64,
+      8.91,
+      null,
+      9.0,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.38
+  },
+  "06201012022": {
+    "name": "DWITI NARANG",
+    "semGPA": [
+      9.64,
+      9.0,
+      9.13,
+      null,
+      8.77,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 9.13
+  },
+  "06301012022": {
+    "name": "EKTA",
+    "semGPA": [
+      9.27,
+      9.82,
+      9.17,
+      null,
+      9.18,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 9.31
+  },
+  "06401012022": {
+    "name": "GAYATRI",
+    "semGPA": [
+      7.18,
+      7.64,
+      6.83,
+      null,
+      8.64,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 7.75
+  },
+  "06501012022": {
+    "name": "GUNJAN VAISHNAVI",
+    "semGPA": [
+      8.91,
+      9.09,
+      8.91,
+      null,
+      9.18,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.15
+  },
+  "06601012022": {
+    "name": "HARMANPREET KAUR",
+    "semGPA": [
+      8.45,
+      8.55,
+      8.48,
+      null,
+      8.27,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 8.5
+  },
+  "06701012022": {
+    "name": "HARSHEEN KAUR",
+    "semGPA": [
+      9.64,
+      9.27,
+      9.78,
+      null,
+      9.45,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 9.48
+  },
+  "06801012022": {
+    "name": "HARSHITA GOYAL",
+    "semGPA": [
+      9.27,
+      9.0,
+      9.0,
+      null,
+      8.73,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 9.02
+  },
+  "06901012022": {
+    "name": "HIMANSHI",
+    "semGPA": [
+      7.82,
+      7.82,
+      7.35,
+      null,
+      7.45,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 7.87
+  },
+  "07001012022": {
+    "name": "IPSHITA TANDON",
+    "semGPA": [
+      9.82,
+      9.09,
+      9.52,
+      null,
+      9.64,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.54
+  },
+  "07101012022": {
+    "name": "ISHA SHARMA",
+    "semGPA": [
+      8.73,
+      9.18,
+      8.65,
+      null,
+      8.77,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 8.79
+  },
+  "07201012022": {
+    "name": "ISHA YADAV",
+    "semGPA": [
+      7.55,
+      7.45,
+      7.96,
+      null,
+      7.36,
+      8.36,
+      null,
+      null
+    ],
+    "cgpa": 7.74
+  },
+  "07301012022": {
+    "name": "ISHIKA CHHOKER",
+    "semGPA": [
+      6.55,
+      7.0,
+      6.74,
+      null,
+      7.36,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 7.24
+  },
+  "07401012022": {
+    "name": "ISHITA LAL",
+    "semGPA": [
+      8.64,
+      8.09,
+      6.48,
+      null,
+      8.45,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 8.1
+  },
+  "07501012022": {
+    "name": "ISHITA YADAV",
+    "semGPA": [
+      8.64,
+      8.82,
+      8.61,
+      null,
+      8.64,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.76
+  },
+  "07601012022": {
+    "name": "ISHRAT",
+    "semGPA": [
+      7.55,
+      7.45,
+      7.7,
+      null,
+      7.86,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 7.88
+  },
+  "07701012022": {
+    "name": "JAPNEET KAUR JAGGI",
+    "semGPA": [
+      7.36,
+      7.36,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 7.36
+  },
+  "07801012022": {
+    "name": "JIYA MALIK",
+    "semGPA": [
+      9.73,
+      9.18,
+      9.43,
+      null,
+      9.64,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.52
+  },
+  "07901012022": {
+    "name": "JOYETA AHUJA",
+    "semGPA": [
+      9.73,
+      9.0,
+      8.7,
+      null,
+      8.45,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 8.87
+  },
+  "08001012022": {
+    "name": "JYOTI",
+    "semGPA": [
+      9.82,
+      9.18,
+      8.74,
+      null,
+      9.45,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 9.29
+  },
+  "08101012022": {
+    "name": "JYOTI",
+    "semGPA": [
+      4.64,
+      3.55,
+      2.96,
+      null,
+      5.05,
+      5.27,
+      null,
+      null
+    ],
+    "cgpa": 4.29
+  },
+  "08201012022": {
+    "name": "KANIKA EKCOSHIYA",
+    "semGPA": [
+      7.73,
+      7.73,
+      7.26,
+      null,
+      8.36,
+      8.36,
+      null,
+      null
+    ],
+    "cgpa": 7.89
+  },
+  "08301012022": {
+    "name": "KANISHKA GUPTA",
+    "semGPA": [
+      9.82,
+      9.18,
+      9.04,
+      null,
+      9.36,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 9.26
+  },
+  "08401012022": {
+    "name": "KARINA SHARMA",
+    "semGPA": [
+      5.73,
+      5.73,
+      5.09,
+      null,
+      7.73,
+      7.73,
+      null,
+      null
+    ],
+    "cgpa": 6.4
+  },
+  "08501012022": {
+    "name": "KASHISH",
+    "semGPA": [
+      6.91,
+      6.64,
+      6.83,
+      null,
+      7.77,
+      7.91,
+      null,
+      null
+    ],
+    "cgpa": 7.21
+  },
+  "08601012022": {
+    "name": "KESAR GOSWAMI",
+    "semGPA": [
+      9.09,
+      8.27,
+      8.48,
+      null,
+      9.05,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.76
+  },
+  "08701012022": {
+    "name": "KHUSHBOO",
+    "semGPA": [
+      7.64,
+      7.18,
+      7.65,
+      null,
+      8.32,
+      8.0,
+      null,
+      null
+    ],
+    "cgpa": 7.76
+  },
+  "08801012022": {
+    "name": "KHUSHI",
+    "semGPA": [
+      9.09,
+      8.27,
+      8.39,
+      null,
+      8.5,
+      7.91,
+      null,
+      null
+    ],
+    "cgpa": 8.43
+  },
+  "08901012022": {
+    "name": "KHUSHI GOEL",
+    "semGPA": [
+      7.91,
+      6.64,
+      7.0,
+      null,
+      8.14,
+      8.18,
+      null,
+      null
+    ],
+    "cgpa": 7.57
+  },
+  "09001012022": {
+    "name": "KHUSHI MALIK",
+    "semGPA": [
+      5.55,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 5.55
+  },
+  "09101012022": {
+    "name": "KHUSHI SEHRAWAT",
+    "semGPA": [
+      8.18,
+      7.64,
+      8.35,
+      null,
+      8.18,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.25
+  },
+  "09201012022": {
+    "name": "KHUSHI VERMA",
+    "semGPA": [
+      6.36,
+      6.91,
+      6.78,
+      null,
+      7.91,
+      8.18,
+      null,
+      null
+    ],
+    "cgpa": 7.23
+  },
+  "09301012022": {
+    "name": "KOMAL",
+    "semGPA": [
+      5.36,
+      5.18,
+      5.7,
+      null,
+      7.5,
+      8.09,
+      null,
+      null
+    ],
+    "cgpa": 6.37
+  },
+  "09401012022": {
+    "name": "KRISHTINA PATIR",
+    "semGPA": [
+      7.55,
+      7.55,
+      6.22,
+      null,
+      8.14,
+      7.27,
+      null,
+      null
+    ],
+    "cgpa": 7.35
+  },
+  "09501012022": {
+    "name": "KSHAMA",
+    "semGPA": [
+      7.18,
+      6.82,
+      6.43,
+      null,
+      7.41,
+      8.09,
+      null,
+      null
+    ],
+    "cgpa": 7.19
+  },
+  "09601012022": {
+    "name": "LAKSHITA BHUMBUCK",
+    "semGPA": [
+      8.45,
+      8.36,
+      8.48,
+      null,
+      8.82,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.6
+  },
+  "09701012022": {
+    "name": "LAKSHITA VERMA",
+    "semGPA": [
+      6.45,
+      8.36,
+      7.96,
+      null,
+      8.73,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.1
+  },
+  "09801012022": {
+    "name": "LAVANYA",
+    "semGPA": [
+      8.36,
+      7.91,
+      6.87,
+      null,
+      7.45,
+      8.27,
+      null,
+      null
+    ],
+    "cgpa": 7.77
+  },
+  "09901012022": {
+    "name": "LEKISHA GOEL",
+    "semGPA": [
+      9.27,
+      8.64,
+      8.39,
+      null,
+      8.41,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 8.69
+  },
+  "10001012022": {
+    "name": "MAHAK YADAV",
+    "semGPA": [
+      8.91,
+      8.64,
+      7.17,
+      null,
+      8.59,
+      8.27,
+      null,
+      null
+    ],
+    "cgpa": 8.32
+  },
+  "10101012022": {
+    "name": "MAHIKA MALIK",
+    "semGPA": [
+      9.09,
+      9.64,
+      9.09,
+      null,
+      9.23,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 9.23
+  },
+  "10201012022": {
+    "name": "MAITRI",
+    "semGPA": [
+      7.36,
+      8.36,
+      7.78,
+      null,
+      8.09,
+      8.18,
+      null,
+      null
+    ],
+    "cgpa": 7.95
+  },
+  "10301012022": {
+    "name": "MAMTA NISHAD",
+    "semGPA": [
+      8.55,
+      8.27,
+      8.39,
+      null,
+      8.05,
+      7.91,
+      null,
+      null
+    ],
+    "cgpa": 8.23
+  },
+  "10401012022": {
+    "name": "MANALI KUMARI",
+    "semGPA": [
+      0.82,
+      3.36,
+      3.09,
+      null,
+      6.68,
+      6.36,
+      null,
+      null
+    ],
+    "cgpa": 4.06
+  },
+  "10501012022": {
+    "name": "MANASVINEE SHARMA",
+    "semGPA": [
+      9.27,
+      8.91,
+      9.17,
+      null,
+      9.36,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 9.11
+  },
+  "10601012022": {
+    "name": "MANISHA",
+    "semGPA": [
+      9.45,
+      9.09,
+      8.48,
+      null,
+      8.18,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.86
+  },
+  "10701012022": {
+    "name": "MANISHA DEVI",
+    "semGPA": [
+      8.82,
+      8.64,
+      7.7,
+      null,
+      8.68,
+      8.36,
+      null,
+      null
+    ],
+    "cgpa": 8.44
+  },
+  "10801012022": {
+    "name": "MANVEE YADAV",
+    "semGPA": [
+      8.91,
+      8.73,
+      8.65,
+      null,
+      8.23,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.72
+  },
+  "10901012022": {
+    "name": "MANYA BHASIN",
+    "semGPA": [
+      9.82,
+      9.36,
+      9.17,
+      null,
+      9.05,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 9.3
+  },
+  "11001012022": {
+    "name": "MEGHA",
+    "semGPA": [
+      6.45,
+      6.45,
+      6.39,
+      null,
+      8.0,
+      8.36,
+      null,
+      null
+    ],
+    "cgpa": 7.13
+  },
+  "11101012022": {
+    "name": "MEGHNA NEGI",
+    "semGPA": [
+      6.64,
+      6.55,
+      5.61,
+      null,
+      6.91,
+      8.0,
+      null,
+      null
+    ],
+    "cgpa": 6.74
+  },
+  "11201012022": {
+    "name": "MEHA TANWAR",
+    "semGPA": [
+      5.73,
+      5.36,
+      5.22,
+      null,
+      8.0,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 6.59
+  },
+  "11301012022": {
+    "name": "MITALI RANI",
+    "semGPA": [
+      9.45,
+      9.36,
+      8.91,
+      null,
+      9.23,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 9.28
+  },
+  "11401012022": {
+    "name": "MUSKAN YADAV",
+    "semGPA": [
+      7.91,
+      8.64,
+      7.43,
+      null,
+      8.36,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 8.2
+  },
+  "11501012022": {
+    "name": "MUSKAN KUMARI",
+    "semGPA": [
+      8.18,
+      7.73,
+      7.91,
+      null,
+      8.36,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 8.2
+  },
+  "11601012022": {
+    "name": "MUSKAN MANGLA",
+    "semGPA": [
+      7.18,
+      6.73,
+      6.96,
+      null,
+      8.18,
+      7.64,
+      null,
+      null
+    ],
+    "cgpa": 7.34
+  },
+  "11701012022": {
+    "name": "NANDINI PAROPKARI",
+    "semGPA": [
+      5.64,
+      7.18,
+      5.35,
+      null,
+      8.18,
+      7.36,
+      null,
+      null
+    ],
+    "cgpa": 6.74
+  },
+  "11801012022": {
+    "name": "NATASHA SETHI",
+    "semGPA": [
+      8.0,
+      8.55,
+      9.0,
+      null,
+      9.36,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.84
+  },
+  "11901012022": {
+    "name": "NAVYA KATARIA",
+    "semGPA": [
+      9.45,
+      8.45,
+      8.48,
+      null,
+      8.95,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.85
+  },
+  "12001012022": {
+    "name": "NAVYA RAJ",
+    "semGPA": [
+      5.55,
+      7.73,
+      7.39,
+      null,
+      7.59,
+      7.82,
+      null,
+      null
+    ],
+    "cgpa": 7.22
+  },
+  "12101012022": {
+    "name": "NAZIA HASSAN",
+    "semGPA": [
+      8.18,
+      6.73,
+      8.74,
+      null,
+      8.27,
+      9.18,
+      null,
+      null
+    ],
+    "cgpa": 8.22
+  },
+  "12201012022": {
+    "name": "NEETU",
+    "semGPA": [
+      6.82,
+      6.09,
+      4.57,
+      null,
+      6.82,
+      7.64,
+      null,
+      null
+    ],
+    "cgpa": 6.39
+  },
+  "12301012022": {
+    "name": "NEETU",
+    "semGPA": [
+      6.18,
+      5.73,
+      3.87,
+      null,
+      6.86,
+      7.55,
+      null,
+      null
+    ],
+    "cgpa": 6.04
+  },
+  "12401012022": {
+    "name": "NEHA KUMARI",
+    "semGPA": [
+      6.45,
+      6.64,
+      6.65,
+      null,
+      8.23,
+      8.36,
+      null,
+      null
+    ],
+    "cgpa": 7.27
+  },
+  "12501012022": {
+    "name": "NIDHI LAL",
+    "semGPA": [
+      3.18,
+      4.27,
+      4.43,
+      null,
+      6.09,
+      5.91,
+      null,
+      null
+    ],
+    "cgpa": 4.78
+  },
+  "12601012022": {
+    "name": "NISHI",
+    "semGPA": [
+      3.55,
+      4.64,
+      4.48,
+      null,
+      5.82,
+      3.82,
+      null,
+      null
+    ],
+    "cgpa": 4.46
+  },
+  "12701012022": {
+    "name": "NITIKA",
+    "semGPA": [
+      4.55,
+      4.45,
+      4.57,
+      null,
+      5.95,
+      6.36,
+      null,
+      null
+    ],
+    "cgpa": 5.18
+  },
+  "12801012022": {
+    "name": "OJASVINI VERMA",
+    "semGPA": [
+      3.73,
+      4.64,
+      4.52,
+      null,
+      6.5,
+      7.09,
+      null,
+      null
+    ],
+    "cgpa": 5.3
+  },
+  "12901012022": {
+    "name": "PAAVNI",
+    "semGPA": [
+      8.82,
+      7.91,
+      8.39,
+      null,
+      9.05,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.69
+  },
+  "13001012022": {
+    "name": "PALAK",
+    "semGPA": [
+      5.55,
+      6.0,
+      5.83,
+      null,
+      7.77,
+      7.82,
+      null,
+      null
+    ],
+    "cgpa": 6.59
+  },
+  "13101012022": {
+    "name": "PALAK BAKSHI",
+    "semGPA": [
+      10.0,
+      9.55,
+      9.74,
+      null,
+      9.45,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.68
+  },
+  "13201012022": {
+    "name": "PARUL SINGH",
+    "semGPA": [
+      7.18,
+      6.36,
+      7.13,
+      null,
+      8.05,
+      7.45,
+      null,
+      null
+    ],
+    "cgpa": 7.23
+  },
+  "13301012022": {
+    "name": "PAVITRA ASTHANA",
+    "semGPA": [
+      9.55,
+      9.36,
+      9.48,
+      null,
+      8.91,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 9.35
+  },
+  "13401012022": {
+    "name": "PAYAL",
+    "semGPA": [
+      9.09,
+      8.45,
+      8.74,
+      null,
+      8.68,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 8.76
+  },
+  "13501012022": {
+    "name": "PRACHI",
+    "semGPA": [
+      9.64,
+      9.64,
+      9.39,
+      null,
+      9.41,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.54
+  },
+  "13601012022": {
+    "name": "PRAGYA",
+    "semGPA": [
+      7.36,
+      7.91,
+      8.35,
+      null,
+      8.91,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 8.23
+  },
+  "13701012022": {
+    "name": "PRAKRITI JAISWAL",
+    "semGPA": [
+      7.09,
+      7.73,
+      7.57,
+      null,
+      8.0,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 7.81
+  },
+  "13801012022": {
+    "name": "PRAKRITI RAI",
+    "semGPA": [
+      7.36,
+      8.82,
+      8.57,
+      null,
+      9.0,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.57
+  },
+  "13901012022": {
+    "name": "PRIYA GUPTA",
+    "semGPA": [
+      9.55,
+      9.36,
+      9.04,
+      null,
+      9.5,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 9.34
+  },
+  "14001012022": {
+    "name": "PRIYA KUMARI",
+    "semGPA": [
+      6.45,
+      6.64,
+      7.65,
+      null,
+      8.23,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 7.52
+  },
+  "14101012022": {
+    "name": "PULAK SRIVASTAVA",
+    "semGPA": [
+      4.27,
+      7.55,
+      7.61,
+      null,
+      7.59,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 7.13
+  },
+  "14201012022": {
+    "name": "RAJVI DHANKHER",
+    "semGPA": [
+      8.91,
+      8.91,
+      8.22,
+      null,
+      9.27,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 8.79
+  },
+  "14301012022": {
+    "name": "RASHI ANAND",
+    "semGPA": [
+      9.64,
+      8.36,
+      8.83,
+      null,
+      8.59,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 8.83
+  },
+  "14401012022": {
+    "name": "RASHMEET KAUR",
+    "semGPA": [
+      8.91,
+      8.64,
+      7.3,
+      null,
+      8.09,
+      7.64,
+      null,
+      null
+    ],
+    "cgpa": 8.12
+  },
+  "14501012022": {
+    "name": "RAUNAK TOHANGAR",
+    "semGPA": [
+      7.27,
+      7.73,
+      8.0,
+      null,
+      8.45,
+      7.82,
+      null,
+      null
+    ],
+    "cgpa": 7.85
+  },
+  "14601012022": {
+    "name": "REENA KUMARI MEENA",
+    "semGPA": [
+      7.36,
+      6.82,
+      8.22,
+      null,
+      8.0,
+      8.36,
+      null,
+      null
+    ],
+    "cgpa": 7.75
+  },
+  "14701012022": {
+    "name": "RIDDHI RUSTAGI",
+    "semGPA": [
+      7.91,
+      8.27,
+      7.96,
+      null,
+      8.91,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 8.37
+  },
+  "14801012022": {
+    "name": "RISHIKA SINGH",
+    "semGPA": [
+      10.0,
+      8.64,
+      9.26,
+      null,
+      9.55,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 9.31
+  },
+  "14901012022": {
+    "name": "RISHITA MAKDE",
+    "semGPA": [
+      9.27,
+      9.0,
+      9.09,
+      null,
+      9.23,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 9.14
+  },
+  "15001012022": {
+    "name": "RITIKA SRIVASTAVA",
+    "semGPA": [
+      5.91,
+      5.91,
+      6.7,
+      null,
+      8.14,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 7.02
+  },
+  "15101012022": {
+    "name": "RIYA JAIN",
+    "semGPA": [
+      9.45,
+      8.82,
+      7.87,
+      null,
+      8.5,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 8.66
+  },
+  "15201012022": {
+    "name": "RIYA SAINI",
+    "semGPA": [
+      6.82,
+      6.64,
+      6.74,
+      null,
+      7.27,
+      7.64,
+      null,
+      null
+    ],
+    "cgpa": 7.02
+  },
+  "15301012022": {
+    "name": "RUCHI",
+    "semGPA": [
+      9.09,
+      8.45,
+      8.83,
+      null,
+      9.23,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.94
+  },
+  "15401012022": {
+    "name": "RUCHIKA PATRO",
+    "semGPA": [
+      4.18,
+      5.36,
+      5.61,
+      null,
+      7.05,
+      6.55,
+      null,
+      null
+    ],
+    "cgpa": 5.75
+  },
+  "15501012022": {
+    "name": "RUHANI",
+    "semGPA": [
+      9.36,
+      9.45,
+      9.13,
+      null,
+      9.86,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.52
+  },
+  "15601012021": {
+    "name": "SANHITA BRAJABASI",
+    "semGPA": [
+      5.36,
+      3.27,
+      0.74,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 3.12
+  },
+  "15601012022": {
+    "name": "SAJAL",
+    "semGPA": [
+      7.55,
+      7.36,
+      7.17,
+      null,
+      7.32,
+      8.18,
+      null,
+      null
+    ],
+    "cgpa": 7.52
+  },
+  "15701012022": {
+    "name": "SAKSHI",
+    "semGPA": [
+      7.73,
+      7.27,
+      6.83,
+      null,
+      8.0,
+      8.36,
+      null,
+      null
+    ],
+    "cgpa": 7.64
+  },
+  "15801012022": {
+    "name": "SAKSHI",
+    "semGPA": [
+      6.82,
+      6.64,
+      7.52,
+      null,
+      7.73,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 7.56
+  },
+  "15901012022": {
+    "name": "SAKSHI MEENA",
+    "semGPA": [
+      7.18,
+      6.09,
+      6.57,
+      null,
+      7.86,
+      8.18,
+      null,
+      null
+    ],
+    "cgpa": 7.18
+  },
+  "16001012022": {
+    "name": "SALONI SINGH",
+    "semGPA": [
+      8.09,
+      8.36,
+      7.52,
+      null,
+      8.55,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 8.23
+  },
+  "16101012022": {
+    "name": "SAMPADA",
+    "semGPA": [
+      6.82,
+      8.27,
+      8.48,
+      null,
+      8.36,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.19
+  },
+  "16201012022": {
+    "name": "SAMYAH KHAN",
+    "semGPA": [
+      9.18,
+      9.73,
+      8.96,
+      null,
+      9.5,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.44
+  },
+  "16301012022": {
+    "name": "SANA ARORA",
+    "semGPA": [
+      9.36,
+      9.82,
+      9.09,
+      null,
+      9.23,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 9.37
+  },
+  "16401012022": {
+    "name": "SANEHA KUMARI",
+    "semGPA": [
+      7.0,
+      6.27,
+      6.91,
+      null,
+      8.41,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 7.45
+  },
+  "16501012022": {
+    "name": "SANIA PARVEEN",
+    "semGPA": [
+      6.82,
+      6.73,
+      7.22,
+      null,
+      7.82,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 7.43
+  },
+  "16601012022": {
+    "name": "SANIYA VERMA",
+    "semGPA": [
+      7.0,
+      7.18,
+      6.17,
+      null,
+      7.36,
+      6.82,
+      null,
+      null
+    ],
+    "cgpa": 6.91
+  },
+  "16701012022": {
+    "name": "SANJANA",
+    "semGPA": [
+      5.0,
+      6.36,
+      5.7,
+      null,
+      7.5,
+      8.09,
+      null,
+      null
+    ],
+    "cgpa": 6.53
+  },
+  "16801012022": {
+    "name": "SANJANA",
+    "semGPA": [
+      5.18,
+      3.73,
+      5.87,
+      null,
+      7.91,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 6.23
+  },
+  "16901012022": {
+    "name": "SANJANA MEENA",
+    "semGPA": [
+      8.18,
+      6.82,
+      7.26,
+      null,
+      8.68,
+      8.18,
+      null,
+      null
+    ],
+    "cgpa": 7.82
+  },
+  "17001012022": {
+    "name": "SANYA RANA",
+    "semGPA": [
+      4.27,
+      4.82,
+      5.3,
+      null,
+      8.45,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 6.33
+  },
+  "17101012022": {
+    "name": "SARASWATI TOMAR",
+    "semGPA": [
+      7.18,
+      7.73,
+      8.39,
+      null,
+      8.73,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.21
+  },
+  "17201012022": {
+    "name": "SARIKA GURJAR",
+    "semGPA": [
+      2.64,
+      2.18,
+      2.26,
+      null,
+      6.64,
+      3.91,
+      null,
+      null
+    ],
+    "cgpa": 3.53
+  },
+  "17301012022": {
+    "name": "SHACHI SINGHAL",
+    "semGPA": [
+      9.18,
+      8.55,
+      8.61,
+      null,
+      8.82,
+      9.18,
+      null,
+      null
+    ],
+    "cgpa": 8.87
+  },
+  "17401012022": {
+    "name": "SHAKSHI",
+    "semGPA": [
+      7.0,
+      6.0,
+      6.04,
+      null,
+      8.09,
+      8.18,
+      null,
+      null
+    ],
+    "cgpa": 7.06
+  },
+  "17501012022": {
+    "name": "SHAMBHAVI SINHA",
+    "semGPA": [
+      7.36,
+      7.73,
+      8.39,
+      null,
+      8.91,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.33
+  },
+  "17601012022": {
+    "name": "SHENDGE SHREYA",
+    "semGPA": [
+      6.82,
+      6.64,
+      5.87,
+      null,
+      7.41,
+      8.0,
+      null,
+      null
+    ],
+    "cgpa": 6.95
+  },
+  "17701012022": {
+    "name": "SHIVANI",
+    "semGPA": [
+      7.18,
+      6.91,
+      8.04,
+      null,
+      8.55,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 7.86
+  },
+  "17801012022": {
+    "name": "SHIWANGI",
+    "semGPA": [
+      7.18,
+      6.82,
+      7.0,
+      null,
+      7.64,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 7.47
+  },
+  "17901012022": {
+    "name": "SHRADDHA",
+    "semGPA": [
+      7.55,
+      8.55,
+      7.0,
+      null,
+      8.77,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 8.14
+  },
+  "18001012022": {
+    "name": "SHREYA",
+    "semGPA": [
+      9.36,
+      9.36,
+      9.26,
+      null,
+      9.27,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 9.32
+  },
+  "18101012022": {
+    "name": "SHREYA BHANDARI",
+    "semGPA": [
+      6.64,
+      8.09,
+      8.57,
+      null,
+      8.23,
+      8.27,
+      null,
+      null
+    ],
+    "cgpa": 7.96
+  },
+  "18201012022": {
+    "name": "SHREYA GUPTA",
+    "semGPA": [
+      8.45,
+      9.0,
+      8.57,
+      null,
+      8.55,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.71
+  },
+  "18301012022": {
+    "name": "SHRISTY RANJAN",
+    "semGPA": [
+      7.0,
+      7.73,
+      8.04,
+      null,
+      8.18,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.04
+  },
+  "18401012022": {
+    "name": "SHRUTI",
+    "semGPA": [
+      9.0,
+      9.45,
+      9.09,
+      null,
+      9.18,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 9.14
+  },
+  "18501012022": {
+    "name": "SHRUTI KUMARI",
+    "semGPA": [
+      7.18,
+      7.91,
+      7.0,
+      null,
+      7.64,
+      7.27,
+      null,
+      null
+    ],
+    "cgpa": 7.4
+  },
+  "18601012022": {
+    "name": "SHRUTI MAURYA",
+    "semGPA": [
+      7.55,
+      7.91,
+      7.7,
+      null,
+      8.14,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 7.99
+  },
+  "18701012022": {
+    "name": "SHUBHAM",
+    "semGPA": [
+      7.0,
+      7.0,
+      7.39,
+      null,
+      8.55,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 7.72
+  },
+  "18801012022": {
+    "name": "SHUBHI SUDAN",
+    "semGPA": [
+      9.0,
+      8.64,
+      9.13,
+      null,
+      9.36,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 9.12
+  },
+  "18901012022": {
+    "name": "SHWETA TYAGI",
+    "semGPA": [
+      8.82,
+      8.27,
+      8.78,
+      null,
+      9.14,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.8
+  },
+  "19001012022": {
+    "name": "SIMRAN",
+    "semGPA": [
+      5.73,
+      5.91,
+      4.04,
+      null,
+      7.45,
+      7.82,
+      null,
+      null
+    ],
+    "cgpa": 6.19
+  },
+  "19101012022": {
+    "name": "SMRIDHI KATYAL",
+    "semGPA": [
+      8.64,
+      8.27,
+      7.96,
+      null,
+      8.59,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.55
+  },
+  "19201012022": {
+    "name": "SNEHA VERMA",
+    "semGPA": [
+      6.45,
+      6.45,
+      7.43,
+      null,
+      8.41,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 7.48
+  },
+  "19301012022": {
+    "name": "SNEHAL JAIN",
+    "semGPA": [
+      8.82,
+      9.18,
+      8.87,
+      null,
+      8.77,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 9.0
+  },
+  "19401012022": {
+    "name": "SOMYA",
+    "semGPA": [
+      7.91,
+      8.27,
+      7.91,
+      null,
+      8.41,
+      8.36,
+      null,
+      null
+    ],
+    "cgpa": 8.17
+  },
+  "19501012022": {
+    "name": "SONA SINGH",
+    "semGPA": [
+      4.45,
+      6.73,
+      8.04,
+      null,
+      9.14,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 7.56
+  },
+  "19601012022": {
+    "name": "SONAM",
+    "semGPA": [
+      7.55,
+      7.36,
+      7.87,
+      null,
+      8.82,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.14
+  },
+  "19701012022": {
+    "name": "SONAM HUSSAIN",
+    "semGPA": [
+      6.27,
+      5.73,
+      5.87,
+      null,
+      6.59,
+      7.45,
+      null,
+      null
+    ],
+    "cgpa": 6.38
+  },
+  "19801012022": {
+    "name": "SONAM MISHRA",
+    "semGPA": [
+      7.0,
+      7.18,
+      8.04,
+      null,
+      8.95,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.12
+  },
+  "19901012022": {
+    "name": "SOUMYA SINHA",
+    "semGPA": [
+      8.45,
+      8.36,
+      8.39,
+      null,
+      7.77,
+      9.18,
+      null,
+      null
+    ],
+    "cgpa": 8.43
+  },
+  "20001012022": {
+    "name": "SRISHTI",
+    "semGPA": [
+      4.36,
+      4.45,
+      5.7,
+      null,
+      6.14,
+      6.09,
+      null,
+      null
+    ],
+    "cgpa": 5.35
+  },
+  "20101012022": {
+    "name": "SRISHTI AGRAWAL",
+    "semGPA": [
+      7.45,
+      8.0,
+      7.09,
+      null,
+      8.23,
+      7.73,
+      null,
+      null
+    ],
+    "cgpa": 7.7
+  },
+  "20201012022": {
+    "name": "SRIYA SINGH",
+    "semGPA": [
+      8.27,
+      8.82,
+      8.48,
+      null,
+      8.45,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.59
+  },
+  "20301012022": {
+    "name": "STUTI MISHRA",
+    "semGPA": [
+      7.09,
+      6.64,
+      6.04,
+      null,
+      8.23,
+      7.64,
+      null,
+      null
+    ],
+    "cgpa": 7.13
+  },
+  "20401012022": {
+    "name": "SUNIDHI GAUTAM",
+    "semGPA": [
+      7.73,
+      7.55,
+      7.0,
+      null,
+      7.91,
+      8.27,
+      null,
+      null
+    ],
+    "cgpa": 7.69
+  },
+  "20501012022": {
+    "name": "SUNIDHI SHARMA",
+    "semGPA": [
+      3.0,
+      5.0,
+      5.04,
+      null,
+      7.59,
+      7.64,
+      null,
+      null
+    ],
+    "cgpa": 5.65
+  },
+  "20601012022": {
+    "name": "SWARNIMA SHARMA",
+    "semGPA": [
+      9.0,
+      9.0,
+      8.83,
+      null,
+      9.18,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 9.0
+  },
+  "20701012022": {
+    "name": "SWATI",
+    "semGPA": [
+      6.82,
+      7.18,
+      7.57,
+      null,
+      8.68,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 7.9
+  },
+  "20801012022": {
+    "name": "SWATI GUPTA",
+    "semGPA": [
+      7.36,
+      7.91,
+      7.91,
+      null,
+      7.91,
+      8.0,
+      null,
+      null
+    ],
+    "cgpa": 7.82
+  },
+  "20901012022": {
+    "name": "SWETA",
+    "semGPA": [
+      6.27,
+      8.64,
+      8.35,
+      null,
+      8.45,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.12
+  },
+  "21001012022": {
+    "name": "TAMANNA",
+    "semGPA": [
+      4.45,
+      5.18,
+      4.65,
+      null,
+      6.5,
+      7.27,
+      null,
+      null
+    ],
+    "cgpa": 5.61
+  },
+  "21101012022": {
+    "name": "TANYA AGRAWAL",
+    "semGPA": [
+      8.36,
+      8.27,
+      7.91,
+      null,
+      8.14,
+      6.36,
+      null,
+      null
+    ],
+    "cgpa": 7.81
+  },
+  "21201012022": {
+    "name": "TEJASVANI SINGH",
+    "semGPA": [
+      6.09,
+      6.91,
+      6.65,
+      null,
+      7.5,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 7.12
+  },
+  "21301012022": {
+    "name": "TISHA",
+    "semGPA": [
+      6.27,
+      6.64,
+      5.26,
+      null,
+      5.64,
+      6.82,
+      null,
+      null
+    ],
+    "cgpa": 6.13
+  },
+  "21401012022": {
+    "name": "VALLARI",
+    "semGPA": [
+      4.27,
+      3.36,
+      4.78,
+      null,
+      5.27,
+      4.73,
+      null,
+      null
+    ],
+    "cgpa": 4.48
+  },
+  "21501012022": {
+    "name": "VANI VARANYA",
+    "semGPA": [
+      8.64,
+      8.64,
+      8.26,
+      null,
+      8.59,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 8.54
+  },
+  "21601012022": {
+    "name": "VANSHIKA",
+    "semGPA": [
+      8.64,
+      8.91,
+      8.35,
+      null,
+      8.86,
+      9.18,
+      null,
+      null
+    ],
+    "cgpa": 8.79
+  },
+  "21701012022": {
+    "name": "VANSHIKA KAUSHIK",
+    "semGPA": [
+      8.45,
+      8.27,
+      7.48,
+      null,
+      8.55,
+      8.45,
+      null,
+      null
+    ],
+    "cgpa": 8.24
+  },
+  "21801012022": {
+    "name": "VANSHIKA SINGHAL",
+    "semGPA": [
+      8.73,
+      8.18,
+      8.52,
+      null,
+      8.5,
+      8.27,
+      null,
+      null
+    ],
+    "cgpa": 8.44
+  },
+  "21901012022": {
+    "name": "VARDA MAHAJAN",
+    "semGPA": [
+      8.55,
+      8.27,
+      8.26,
+      null,
+      8.77,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 8.52
+  },
+  "22001012022": {
+    "name": "VEDHITHAA IYENGAR",
+    "semGPA": [
+      7.0,
+      6.27,
+      7.83,
+      null,
+      8.36,
+      8.36,
+      null,
+      null
+    ],
+    "cgpa": 7.56
+  },
+  "22101012022": {
+    "name": "Venkata Shreya",
+    "semGPA": [
+      8.82,
+      8.82,
+      8.78,
+      null,
+      9.18,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 8.99
+  },
+  "22201012022": {
+    "name": "VENUS CHAUDHARY",
+    "semGPA": [
+      8.55,
+      9.18,
+      8.43,
+      null,
+      8.73,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.78
+  },
+  "22301012022": {
+    "name": "VIDHI WALIA",
+    "semGPA": [
+      9.45,
+      9.27,
+      8.52,
+      null,
+      8.86,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 8.98
+  },
+  "22501012022": {
+    "name": "YASHI CHAUDHARY",
+    "semGPA": [
+      7.36,
+      8.64,
+      8.96,
+      null,
+      9.05,
+      9.55,
+      null,
+      null
+    ],
+    "cgpa": 8.71
+  },
+  "22601012022": {
+    "name": "YASHIKA GARG",
+    "semGPA": [
+      6.82,
+      7.91,
+      7.74,
+      null,
+      8.45,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 7.98
+  },
+  "22701012022": {
+    "name": "YASHIKA JINDAL",
+    "semGPA": [
+      9.64,
+      9.82,
+      8.78,
+      null,
+      9.14,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 9.28
+  },
+  "22801012022": {
+    "name": "YOGYA CHANDNA",
+    "semGPA": [
+      9.0,
+      9.73,
+      9.48,
+      null,
+      9.09,
+      9.55,
+      null,
+      null
+    ],
+    "cgpa": 9.37
+  },
+  "23601012021": {
+    "name": "Arti Kumari",
+    "semGPA": [
+      1.45,
+      1.55,
+      2.57,
+      null,
+      null,
+      5.09,
+      null,
+      null
+    ],
+    "cgpa": 2.67
+  },
+  "00101022022": {
+    "name": "AAKRITI TYAGI",
+    "semGPA": [
+      7.64,
+      8.55,
+      6.48,
+      null,
+      8.09,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 7.92
+  },
+  "00201022022": {
+    "name": "AARYA TEOTIA",
+    "semGPA": [
+      5.64,
+      4.91,
+      3.57,
+      null,
+      7.86,
+      8.0,
+      null,
+      null
+    ],
+    "cgpa": 6.0
+  },
+  "00301022022": {
+    "name": "ALKA",
+    "semGPA": [
+      6.64,
+      7.18,
+      6.7,
+      null,
+      8.0,
+      8.0,
+      null,
+      null
+    ],
+    "cgpa": 7.3
+  },
+  "00401022022": {
+    "name": "ANANDITA",
+    "semGPA": [
+      8.09,
+      8.55,
+      8.09,
+      null,
+      8.91,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.58
+  },
+  "00501022022": {
+    "name": "ANANYA MISHRA",
+    "semGPA": [
+      4.36,
+      4.55,
+      4.48,
+      null,
+      7.32,
+      6.45,
+      null,
+      null
+    ],
+    "cgpa": 5.43
+  },
+  "00601022022": {
+    "name": "ANKITA KUMARI",
+    "semGPA": [
+      6.09,
+      5.0,
+      5.91,
+      null,
+      8.45,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 6.84
+  },
+  "00801022022": {
+    "name": "APEKSHA SINGH",
+    "semGPA": [
+      7.73,
+      8.64,
+      8.17,
+      null,
+      8.91,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.58
+  },
+  "00901022022": {
+    "name": "ATREYI PRASAD",
+    "semGPA": [
+      0.0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 0.0
+  },
+  "01001022022": {
+    "name": "AYUSHI ARYA",
+    "semGPA": [
+      8.64,
+      8.91,
+      9.13,
+      null,
+      9.55,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.17
+  },
+  "01101022022": {
+    "name": "BHAKTI GOEL",
+    "semGPA": [
+      5.91,
+      6.36,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 6.13
+  },
+  "01201022022": {
+    "name": "BHAVYA TANEJA",
+    "semGPA": [
+      6.64,
+      7.82,
+      8.52,
+      null,
+      8.55,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 8.05
+  },
+  "01301022022": {
+    "name": "DIYA",
+    "semGPA": [
+      6.45,
+      5.82,
+      7.22,
+      null,
+      8.36,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 7.39
+  },
+  "01401022022": {
+    "name": "EKATA SINGH",
+    "semGPA": [
+      5.91,
+      8.36,
+      8.17,
+      null,
+      8.36,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.01
+  },
+  "01501022022": {
+    "name": "GARIMA",
+    "semGPA": [
+      6.82,
+      8.09,
+      8.09,
+      null,
+      8.55,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.16
+  },
+  "01601022022": {
+    "name": "GARIMA HARIHAR",
+    "semGPA": [
+      7.27,
+      8.64,
+      8.0,
+      null,
+      9.36,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.44
+  },
+  "01701022022": {
+    "name": "GARIMA YADAV",
+    "semGPA": [
+      6.82,
+      6.73,
+      5.39,
+      null,
+      7.36,
+      6.55,
+      null,
+      null
+    ],
+    "cgpa": 6.57
+  },
+  "01801022022": {
+    "name": "ISHIKA TALUKDAR",
+    "semGPA": [
+      4.82,
+      5.64,
+      5.04,
+      null,
+      8.45,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 6.5
+  },
+  "01901022022": {
+    "name": "JIYA YADAV",
+    "semGPA": [
+      6.82,
+      5.55,
+      6.17,
+      null,
+      7.55,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 6.96
+  },
+  "02001022022": {
+    "name": "JOEL SAXENA",
+    "semGPA": [
+      7.55,
+      8.0,
+      8.96,
+      null,
+      7.82,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 8.18
+  },
+  "02101022022": {
+    "name": "JUHI SHARMA",
+    "semGPA": [
+      6.45,
+      6.55,
+      7.48,
+      null,
+      7.91,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 7.42
+  },
+  "02201022022": {
+    "name": "KAJAL GOSWAMI",
+    "semGPA": [
+      2.09,
+      4.45,
+      6.09,
+      null,
+      7.55,
+      8.0,
+      null,
+      null
+    ],
+    "cgpa": 5.64
+  },
+  "02301022022": {
+    "name": "KHUSHI SAHANI",
+    "semGPA": [
+      6.09,
+      4.82,
+      6.96,
+      null,
+      8.5,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 7.09
+  },
+  "02401022022": {
+    "name": "KOMAL GAUTAM",
+    "semGPA": [
+      5.36,
+      6.45,
+      6.78,
+      null,
+      8.27,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 7.15
+  },
+  "02501022022": {
+    "name": "KRITI KHURANA",
+    "semGPA": [
+      7.36,
+      7.0,
+      7.35,
+      null,
+      8.09,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 7.71
+  },
+  "02601022022": {
+    "name": "KUSUM",
+    "semGPA": [
+      5.91,
+      7.55,
+      7.91,
+      null,
+      8.41,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 7.7
+  },
+  "02701022022": {
+    "name": "LAVANYA KUMARI",
+    "semGPA": [
+      6.73,
+      7.73,
+      8.78,
+      null,
+      9.09,
+      7.36,
+      null,
+      null
+    ],
+    "cgpa": 7.94
+  },
+  "02801022022": {
+    "name": "MAYURI PALIWAL",
+    "semGPA": [
+      5.36,
+      3.64,
+      4.13,
+      null,
+      8.32,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 6.18
+  },
+  "02901022022": {
+    "name": "MEENAKSHI",
+    "semGPA": [
+      4.91,
+      5.36,
+      4.26,
+      null,
+      6.55,
+      5.73,
+      null,
+      null
+    ],
+    "cgpa": 5.36
+  },
+  "03001022022": {
+    "name": "MOGIRI",
+    "semGPA": [
+      1.64,
+      2.27,
+      0.87,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 1.59
+  },
+  "03101022022": {
+    "name": "NAVYA JAIN",
+    "semGPA": [
+      6.64,
+      7.64,
+      8.61,
+      null,
+      9.27,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.36
+  },
+  "03201022022": {
+    "name": "PALAK SINGH",
+    "semGPA": [
+      8.0,
+      8.45,
+      9.39,
+      null,
+      9.09,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 8.95
+  },
+  "03301022022": {
+    "name": "PEEHU SADARAN",
+    "semGPA": [
+      0.55,
+      1.64,
+      1.3,
+      null,
+      3.64,
+      3.82,
+      null,
+      null
+    ],
+    "cgpa": 2.19
+  },
+  "03401022022": {
+    "name": "POOJA RAUTELA",
+    "semGPA": [
+      7.82,
+      7.27,
+      8.17,
+      null,
+      8.64,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.16
+  },
+  "03501022022": {
+    "name": "PRANJAL GUPTA",
+    "semGPA": [
+      9.09,
+      8.73,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 8.91
+  },
+  "03601022022": {
+    "name": "PRIYANKA",
+    "semGPA": [
+      8.64,
+      8.09,
+      8.09,
+      null,
+      8.73,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 8.44
+  },
+  "03701022022": {
+    "name": "PRIYANSHI PAL",
+    "semGPA": [
+      6.0,
+      7.09,
+      6.65,
+      null,
+      8.64,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 7.46
+  },
+  "03801022022": {
+    "name": "RISHIMA MADAN",
+    "semGPA": [
+      7.0,
+      7.45,
+      8.35,
+      null,
+      9.0,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.18
+  },
+  "03901022022": {
+    "name": "RIYA GUPTA",
+    "semGPA": [
+      5.82,
+      7.73,
+      8.04,
+      null,
+      8.36,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 7.77
+  },
+  "04001022022": {
+    "name": "SAARA",
+    "semGPA": [
+      1.73,
+      4.55,
+      5.17,
+      null,
+      5.55,
+      6.64,
+      null,
+      null
+    ],
+    "cgpa": 4.73
+  },
+  "04101022022": {
+    "name": "SADHYA GUPTA",
+    "semGPA": [
+      7.55,
+      7.36,
+      8.78,
+      null,
+      8.36,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.23
+  },
+  "04201022022": {
+    "name": "SAKSHI BHUSHAN",
+    "semGPA": [
+      4.45,
+      5.91,
+      5.65,
+      null,
+      6.73,
+      6.82,
+      null,
+      null
+    ],
+    "cgpa": 5.91
+  },
+  "04301022022": {
+    "name": "SALVI GAUTAM",
+    "semGPA": [
+      3.0,
+      2.91,
+      7.61,
+      null,
+      7.64,
+      5.55,
+      null,
+      null
+    ],
+    "cgpa": 5.34
+  },
+  "04401022022": {
+    "name": "SANYA",
+    "semGPA": [
+      3.18,
+      4.0,
+      5.22,
+      null,
+      6.86,
+      5.18,
+      null,
+      null
+    ],
+    "cgpa": 4.89
+  },
+  "04501022022": {
+    "name": "SARAH RAEES",
+    "semGPA": [
+      6.73,
+      8.36,
+      9.04,
+      null,
+      9.55,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.63
+  },
+  "04601022022": {
+    "name": "SAUMYA MATHUR",
+    "semGPA": [
+      7.45,
+      7.64,
+      7.48,
+      null,
+      8.64,
+      8.09,
+      null,
+      null
+    ],
+    "cgpa": 7.86
+  },
+  "04701022022": {
+    "name": "SHANTI KUMARI",
+    "semGPA": [
+      7.82,
+      8.27,
+      8.17,
+      null,
+      9.55,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.65
+  },
+  "04801022022": {
+    "name": "SHIKHA MISHRA",
+    "semGPA": [
+      2.45,
+      4.82,
+      6.04,
+      null,
+      6.64,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 5.7
+  },
+  "04901022022": {
+    "name": "SHIVANGI SINGH",
+    "semGPA": [
+      5.91,
+      6.09,
+      7.22,
+      null,
+      8.05,
+      7.55,
+      null,
+      null
+    ],
+    "cgpa": 6.96
+  },
+  "05001022022": {
+    "name": "SHREYA",
+    "semGPA": [
+      9.55,
+      9.55,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 9.55
+  },
+  "05101022022": {
+    "name": "SHREYA KOLI",
+    "semGPA": [
+      4.73,
+      3.55,
+      5.22,
+      null,
+      5.45,
+      6.09,
+      null,
+      null
+    ],
+    "cgpa": 5.01
+  },
+  "05201022022": {
+    "name": "SHREYANSHI",
+    "semGPA": [
+      7.18,
+      6.91,
+      7.65,
+      null,
+      8.86,
+      8.36,
+      null,
+      null
+    ],
+    "cgpa": 7.79
+  },
+  "05301022022": {
+    "name": "SHRUTI NARANG",
+    "semGPA": [
+      8.82,
+      8.91,
+      8.52,
+      null,
+      9.27,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.03
+  },
+  "05401022022": {
+    "name": "SIMRAN",
+    "semGPA": [
+      4.0,
+      6.64,
+      8.17,
+      null,
+      9.0,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 7.42
+  },
+  "05501022022": {
+    "name": "SIMRAN JHA",
+    "semGPA": [
+      7.73,
+      8.36,
+      9.04,
+      null,
+      9.09,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.7
+  },
+  "05601022022": {
+    "name": "SIMRAN SINGH",
+    "semGPA": [
+      6.27,
+      4.82,
+      7.74,
+      null,
+      8.09,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 7.13
+  },
+  "05701022022": {
+    "name": "SNEHA KUMARI",
+    "semGPA": [
+      0.82,
+      6.0,
+      5.3,
+      null,
+      8.45,
+      7.82,
+      null,
+      null
+    ],
+    "cgpa": 5.68
+  },
+  "05801022022": {
+    "name": "SNEHA VERMA",
+    "semGPA": [
+      3.91,
+      4.64,
+      5.61,
+      null,
+      7.27,
+      7.09,
+      null,
+      null
+    ],
+    "cgpa": 5.7
+  },
+  "05901022022": {
+    "name": "SONAL",
+    "semGPA": [
+      6.55,
+      7.27,
+      7.78,
+      null,
+      8.45,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 7.83
+  },
+  "06001022022": {
+    "name": "SONAM MOURYA",
+    "semGPA": [
+      4.45,
+      6.0,
+      6.78,
+      null,
+      7.77,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 6.75
+  },
+  "06101022022": {
+    "name": "SONIKA CHAMOLA",
+    "semGPA": [
+      5.73,
+      6.55,
+      7.04,
+      null,
+      7.55,
+      8.18,
+      null,
+      null
+    ],
+    "cgpa": 7.01
+  },
+  "06201022022": {
+    "name": "SRISHTI YADAV",
+    "semGPA": [
+      3.36,
+      4.27,
+      5.61,
+      null,
+      8.0,
+      7.82,
+      null,
+      null
+    ],
+    "cgpa": 5.81
+  },
+  "06301022022": {
+    "name": "SUKANYA",
+    "semGPA": [
+      8.27,
+      8.82,
+      8.87,
+      null,
+      9.27,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.86
+  },
+  "06401022022": {
+    "name": "SUKRITI PUNJ",
+    "semGPA": [
+      6.45,
+      6.91,
+      7.39,
+      null,
+      8.73,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 7.71
+  },
+  "06501022022": {
+    "name": "SUPRIYA SINGH",
+    "semGPA": [
+      6.64,
+      8.55,
+      8.13,
+      null,
+      9.18,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.35
+  },
+  "06601022022": {
+    "name": "TANISHA GOYAL",
+    "semGPA": [
+      8.82,
+      9.55,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 9.19
+  },
+  "06701022022": {
+    "name": "TANNU KUMARI",
+    "semGPA": [
+      5.73,
+      6.09,
+      7.17,
+      null,
+      8.18,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 7.18
+  },
+  "06801022022": {
+    "name": "TANYA MISHRA",
+    "semGPA": [
+      5.36,
+      6.55,
+      7.22,
+      null,
+      8.32,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 7.2
+  },
+  "06901022022": {
+    "name": "TANYA SAINI",
+    "semGPA": [
+      4.09,
+      6.27,
+      7.0,
+      null,
+      7.95,
+      8.55,
+      null,
+      null
+    ],
+    "cgpa": 6.77
+  },
+  "07001022022": {
+    "name": "TAYYABA KHAN",
+    "semGPA": [
+      8.09,
+      8.45,
+      8.43,
+      null,
+      8.82,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 8.54
+  },
+  "07101022022": {
+    "name": "TEJASVITA",
+    "semGPA": [
+      4.45,
+      4.18,
+      7.22,
+      null,
+      8.68,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 6.72
+  },
+  "07201022022": {
+    "name": "UNNATI BHATNAGAR",
+    "semGPA": [
+      6.82,
+      7.64,
+      8.91,
+      null,
+      8.64,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.33
+  },
+  "07301022022": {
+    "name": "VAISHNAVI",
+    "semGPA": [
+      7.91,
+      8.73,
+      8.65,
+      null,
+      9.27,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.8
+  },
+  "07401022022": {
+    "name": "VANYA",
+    "semGPA": [
+      6.27,
+      6.64,
+      7.22,
+      null,
+      8.82,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 7.64
+  },
+  "07501022022": {
+    "name": "VIDUSHI BHARDWAJ",
+    "semGPA": [
+      6.91,
+      7.27,
+      6.78,
+      null,
+      8.64,
+      8.91,
+      null,
+      null
+    ],
+    "cgpa": 7.7
+  },
+  "07601022022": {
+    "name": "VIDUSHI GARG",
+    "semGPA": [
+      7.0,
+      7.0,
+      7.43,
+      null,
+      8.73,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 7.92
+  },
+  "07701022022": {
+    "name": "YASHIKA",
+    "semGPA": [
+      9.73,
+      9.55,
+      9.83,
+      null,
+      9.82,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.79
+  },
+  "00111032023": {
+    "name": "Mukti Gupta",
+    "semGPA": [
+      null,
+      null,
+      7.13,
+      null,
+      8.68,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 8.39
+  },
+  "07801022022": {
+    "name": "ISHITA GUPTA",
+    "semGPA": [
+      null,
+      null,
+      9.57,
+      null,
+      9.82,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.68
+  },
+  "07901022022": {
+    "name": "SAMRIDHI TRIPATHI",
+    "semGPA": [
+      null,
+      null,
+      8.52,
+      null,
+      8.91,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 8.72
+  },
+  "08001022022": {
+    "name": "SOUMYA GUPTA",
+    "semGPA": [
+      null,
+      null,
+      8.17,
+      null,
+      9.0,
+      8.36,
+      null,
+      null
+    ],
+    "cgpa": 8.51
+  },
+  "08101022022": {
+    "name": "VANIA SETIA",
+    "semGPA": [
+      null,
+      null,
+      7.91,
+      null,
+      9.45,
+      9.09,
+      null,
+      null
+    ],
+    "cgpa": 8.82
+  },
+  "15801172022": {
+    "name": "SOUMYA GUPTA",
+    "semGPA": [
+      null,
+      null,
+      9.48,
+      null,
+      9.59,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.69
+  },
+  "15901172022": {
+    "name": "GUNGUN SINGH",
+    "semGPA": [
+      null,
+      null,
+      9.35,
+      null,
+      9.91,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.69
+  },
+  "16001172022": {
+    "name": "SNEHA",
+    "semGPA": [
+      null,
+      null,
+      9.52,
+      null,
+      9.32,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.61
+  },
+  "16101172022": {
+    "name": "SHRUTI GOYAL",
+    "semGPA": [
+      null,
+      null,
+      8.74,
+      null,
+      9.64,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.4
+  },
+  "16201172022": {
+    "name": "SHREYA SISODIA",
+    "semGPA": [
+      null,
+      null,
+      9.43,
+      null,
+      9.59,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.61
+  },
+  "00111042023": {
+    "name": "SAMRIDDHI SINGH",
+    "semGPA": [
+      null,
+      null,
+      6.26,
+      null,
+      8.18,
+      9.05,
+      null,
+      null
+    ],
+    "cgpa": 7.83
+  },
+  "00211042023": {
+    "name": "NAVYA JAYANT",
+    "semGPA": [
+      null,
+      null,
+      7.3,
+      null,
+      9.36,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 8.7
+  },
+  "09801042022": {
+    "name": "APARNA JHA",
+    "semGPA": [
+      null,
+      null,
+      8.0,
+      null,
+      9.32,
+      8.68,
+      null,
+      null
+    ],
+    "cgpa": 8.67
+  },
+  "09901042022": {
+    "name": "ANISHKA SINGH",
+    "semGPA": [
+      null,
+      null,
+      8.13,
+      null,
+      9.05,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 8.64
+  },
+  "10001042022": {
+    "name": "SANIA ASAD",
+    "semGPA": [
+      null,
+      null,
+      7.7,
+      null,
+      9.05,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 8.67
+  },
+  "07801192022": {
+    "name": "SHREYA GUPTA",
+    "semGPA": [
+      null,
+      null,
+      9.04,
+      9.27,
+      8.82,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.19
+  },
+  "07901192022": {
+    "name": "BHAMINI KATYAL",
+    "semGPA": [
+      null,
+      null,
+      9.13,
+      8.82,
+      9.55,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.38
+  },
+  "08001192022": {
+    "name": "ADHISHREE SINGH",
+    "semGPA": [
+      null,
+      null,
+      9.22,
+      9.27,
+      9.32,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.45
+  },
+  "08101192022": {
+    "name": "NITYA SINGHAL",
+    "semGPA": [
+      null,
+      null,
+      9.13,
+      9.64,
+      9.59,
+      10.0,
+      null,
+      null
+    ],
+    "cgpa": 9.59
+  },
+  "00111182023": {
+    "name": "SHADMA BAKHTAWAR",
+    "semGPA": [
+      null,
+      null,
+      7.0,
+      null,
+      7.59,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 7.86
+  },
+  "00211182023": {
+    "name": "MEHAK MEMON",
+    "semGPA": [
+      null,
+      null,
+      6.57,
+      null,
+      7.23,
+      8.09,
+      null,
+      null
+    ],
+    "cgpa": 7.3
+  },
+  "00311182023": {
+    "name": "ADITI SHUKLA",
+    "semGPA": [
+      null,
+      null,
+      7.09,
+      null,
+      8.41,
+      8.82,
+      null,
+      null
+    ],
+    "cgpa": 8.11
+  },
+  "00411182023": {
+    "name": "ANKITA KARN",
+    "semGPA": [
+      null,
+      null,
+      7.09,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "cgpa": 7.09
+  },
+  "00511182023": {
+    "name": "PRACHI JINDAL",
+    "semGPA": [
+      null,
+      null,
+      6.74,
+      null,
+      8.73,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.16
+  },
+  "00611182023": {
+    "name": "KALPANA",
+    "semGPA": [
+      null,
+      null,
+      7.96,
+      null,
+      8.91,
+      9.36,
+      null,
+      null
+    ],
+    "cgpa": 8.74
+  },
+  "00711182023": {
+    "name": "JYOTI CHAURASIA",
+    "semGPA": [
+      null,
+      null,
+      6.13,
+      null,
+      7.09,
+      8.73,
+      null,
+      null
+    ],
+    "cgpa": 7.32
+  },
+  "00811182023": {
+    "name": "ASMITA PAL",
+    "semGPA": [
+      null,
+      null,
+      7.26,
+      null,
+      8.05,
+      8.0,
+      null,
+      null
+    ],
+    "cgpa": 7.77
+  },
+  "00911182023": {
+    "name": "SAKSHI",
+    "semGPA": [
+      null,
+      null,
+      6.74,
+      null,
+      7.95,
+      8.64,
+      null,
+      null
+    ],
+    "cgpa": 7.78
+  },
+  "01011182023": {
+    "name": "CHETNA ARYA",
+    "semGPA": [
+      null,
+      null,
+      7.26,
+      null,
+      8.23,
+      9.0,
+      null,
+      null
+    ],
+    "cgpa": 8.16
+  },
+  "01111182023": {
+    "name": "JYOTI SANGAM",
+    "semGPA": [
+      null,
+      null,
+      5.87,
+      null,
+      5.77,
+      7.27,
+      null,
+      null
+    ],
+    "cgpa": 6.3
+  },
+  "22901012022": {
+    "name": "SOMYA GARG",
+    "semGPA": [
+      null,
+      null,
+      9.65,
+      null,
+      9.91,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.79
+  },
+  "23001012022": {
+    "name": "SHIVANGI",
+    "semGPA": [
+      null,
+      null,
+      9.48,
+      null,
+      9.41,
+      9.55,
+      null,
+      null
+    ],
+    "cgpa": 9.48
+  },
+  "23101012022": {
+    "name": "MANASI BHAGAT",
+    "semGPA": [
+      null,
+      null,
+      8.96,
+      null,
+      9.55,
+      9.27,
+      null,
+      null
+    ],
+    "cgpa": 9.26
+  },
+  "07901032022": {
+    "name": "SHREYA",
+    "semGPA": [
+      null,
+      null,
+      8.52,
+      null,
+      8.95,
+      9.82,
+      null,
+      null
+    ],
+    "cgpa": 9.1
+  },
+  "08001032022": {
+    "name": "TANISHA GOYAL",
+    "semGPA": [
+      null,
+      null,
+      8.61,
+      null,
+      8.95,
+      9.45,
+      null,
+      null
+    ],
+    "cgpa": 9.0
+  },
+  "08101032022": {
+    "name": "TANYA NAGAR",
+    "semGPA": [
+      null,
+      null,
+      8.17,
+      null,
+      8.32,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 8.71
+  },
+  "08201032022": {
+    "name": "PRANJAL GUPTA",
+    "semGPA": [
+      null,
+      null,
+      8.61,
+      null,
+      9.32,
+      9.64,
+      null,
+      null
+    ],
+    "cgpa": 9.19
+  }
+}
